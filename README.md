@@ -1,52 +1,51 @@
-# Greyhawk – Session Notes
+# Greyhawk Campaign
 
-**Session:** 01  
-**Date:** Wednesday 14th January 2026
-
----
-
-## Quest
-- Escort a caravan to **Thandalin**, a couple of days southeast of **Neverwinter**
-- Met **Gundrin**, who claims he and his brothers have discovered something *big*
-- Reward offered: **10 GP**
-- Destination contact: **Barthan’s Provisions**
+Private campaign notes and session logs.
 
 ---
 
-## On the Road
-- Travelled east along the **Tivor Trail**
-- Discovered **Sildar and Gundrin’s horses dead** on the trail  
-  - Clear signs of an ambush
+## Party Roster
+
+### 🧙 Cal Tir
+**Race:** Elf  
+**Class:** Sorcerer  
+
+![Cal Tir](images/party/cal-tir.png)
 
 ---
 
-## First Encounter
-- Ambushed by goblins
-- Everyone killed a goblin… except me 😅
+### ⛪ Confessor Baras
+**Race:** Human  
+**Class:** Cleric  
+
+![Confessor Baras](images/party/confessor-baras.png)
 
 ---
 
-## Scouting Ahead
-- Left **Bessy** and **Nessy** at the trail
-- Followed a side trail discovered by *The Boy*, heading northwest
+### ⚔️ Rurik Oathless
+**Race:** Dwarf  
+**Class:** Fighter  
+
+![Rurik Oathless](images/party/rurik-oathless.png)
 
 ---
 
-## Goblin Camp
-- Located a goblin camp
-- Sprung a trap successfully
-- **Rurik** pulled off a slick double attack
-- Rurik then lost a bet with *The Boy* involving cooked meat 🍖
+### 🔥 Unknown
+**Race:** Tiefling  
+**Class:** Barbarian  
+
+![Unknown Tiefling](images/party/unknown-tiefling.png)
 
 ---
 
-## Cave Complex
-- Entered a cave system connected to the camp
-- Fought wolves chained to a stalactite  
-  - *The Boy* took more damage (again)
-- *The Boy* and **Valen** coordinated a joint attack to kill a goblin sentry
+### 🏹 Valen Wildhear
+**Race:** Elf  
+**Class:** Fighter  
+
+![Valen Wildhear](images/party/valen-wildhear.png)
 
 ---
 
-## Rewards
-- **75 XP earned**
+## Session Logs
+
+- [Session 01 – Wednesday 14th January 2026](sessions/session-01.md)
