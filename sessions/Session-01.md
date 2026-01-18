@@ -11,7 +11,7 @@
 - Confessor Baras — Human Cleric
 - Rurik Oathless — Dwarf Fighter
 - Unknown — Tiefling Barbarian
-- Valen Wildhear — Elf Fighter
+- Valen Wildheart — Elf Fighter
 
 ---
 
@@ -46,7 +46,7 @@ The party travelled east along the Tivor Trail toward Thandalin. Along the way, 
 - Entered a cave system connected to the goblin camp
 - Defeated wolves chained to a stalactite  
   - *The Boy* took additional damage
-- *The Boy* and **Valen Wildhear** coordinated a joint attack to eliminate a goblin sentry
+- *The Boy* and **Valen Wildheart** coordinated a joint attack to eliminate a goblin sentry
 
 ---
 
