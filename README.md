@@ -1,5 +1,10 @@
 # Greyhawk – Session Notes
 
+**Session:** 01  
+**Date:** Wednesday 14th January 2026
+
+---
+
 ## Quest
 - Escort a caravan to **Thandalin**, a couple of days southeast of **Neverwinter**
 - Met **Gundrin**, who claims he and his brothers have discovered something *big*
