@@ -1,52 +1,88 @@
-# Greyhawk – Session Notes
+# Greyhawk – Session 01
 
-**Session:** 01  
-**Date:** Wednesday 14th January 2026
+**Date:** Wednesday 14th January 2026  
+**Location:** Tivor Trail → Goblin Cave  
+**Party Level:** 1
 
 ---
 
-## Quest
+## Party Present
+- Cal Tir — Elf Sorcerer
+- Confessor Baras — Human Cleric
+- Rurik Oathless — Dwarf Fighter
+- Unknown — Tiefling Barbarian
+- Valen Wildhear — Elf Fighter
+
+---
+
+## Quest / Objective
 - Escort a caravan to **Thandalin**, a couple of days southeast of **Neverwinter**
-- Met **Gundrin**, who claims he and his brothers have discovered something *big*
+- Met **Gundrin**, who claims he and his brothers have discovered something significant
 - Reward offered: **10 GP**
-- Destination contact: **Barthan’s Provisions**
+- Delivery contact: **Barthan’s Provisions**
 
 ---
 
-## On the Road
-- Travelled east along the **Tivor Trail**
-- Discovered **Sildar and Gundrin’s horses dead** on the trail  
-  - Clear signs of an ambush
+## Session Summary
+The party travelled east along the Tivor Trail toward Thandalin. Along the way, signs of trouble quickly emerged, leading to goblin ambushes and the discovery of a hostile camp hidden off the main road.
 
 ---
 
-## First Encounter
-- Ambushed by goblins
-- Everyone killed a goblin… except me 😅
+## Encounters
+
+### Goblin Ambush
+- Discovered **Sildar and Gundrin’s horses dead** on the Tivor Trail  
+  - Clear evidence of an ambush
+- Engaged by goblins
+- Everyone managed to kill a goblin… except one party member 😅
+
+### Goblin Camp
+- Located a goblin camp hidden off a northwest side trail discovered by *The Boy*
+- Successfully sprang a trap on the camp
+- **Rurik Oathless** executed a slick double attack
+- Rurik later lost a bet with *The Boy* involving cooked meat 🍖
+
+### Cave Entrance & Sentries
+- Entered a cave system connected to the goblin camp
+- Defeated wolves chained to a stalactite  
+  - *The Boy* took additional damage
+- *The Boy* and **Valen Wildhear** coordinated a joint attack to eliminate a goblin sentry
 
 ---
 
-## Scouting Ahead
-- Left **Bessy** and **Nessy** at the trail
-- Followed a side trail discovered by *The Boy*, heading northwest
+## Exploration & Discoveries
+- Identified a hidden goblin trail leading northwest from the main road
+- Discovered a cave complex used as a goblin stronghold
 
 ---
 
-## Goblin Camp
-- Located a goblin camp
-- Sprung a trap successfully
-- **Rurik** pulled off a slick double attack
-- Rurik then lost a bet with *The Boy* involving cooked meat 🍖
+## Notable NPCs
+- **Gundrin** — Dwarf merchant; claims to have found something important
+- **Sildar** — Associate of Gundrin; fate currently unknown
 
 ---
 
-## Cave Complex
-- Entered a cave system connected to the camp
-- Fought wolves chained to a stalactite  
-  - *The Boy* took more damage (again)
-- *The Boy* and **Valen** coordinated a joint attack to kill a goblin sentry
+## Loot & Rewards
+- **XP:** 75 XP awarded
+- **Gold:** —
+- **Items:** —
 
 ---
 
-## Rewards
-- **75 XP earned**
+## Character Moments
+- Rurik’s confident double attack followed immediately by losing a food-related bet
+- Rurik’s long rant about women and how Spider or Snake symbols probably means theres a horrible woman leading some horrible cult
+- Continued tradition of *The Boy* taking more damage than expected
+
+---
+
+## Loose Threads
+- What happened to **Sildar** and **Gundrin**
+- What lies deeper within the goblin cave
+- Who or what the goblins are working for
+
+---
+
+## DM Notes / Reminders
+- Cave complex not fully explored
+- Prisoners and leaders may still be present
