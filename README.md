@@ -10,9 +10,7 @@ Private campaign notes and session logs.
 **Race:** Elf  
 **Class:** Sorcerer  
 
-![Cal Tir](images/party/CalTir.jpeg)
-
-
+<img src="images/party/CalTir.jpeg" alt="Rurik Oathless" width="200" height="300">
 
 ---
 
@@ -20,7 +18,7 @@ Private campaign notes and session logs.
 **Race:** Human  
 **Class:** Cleric  
 
-![Confessor Baras](images/party/ConfesserBaras.jpeg)
+<img src="images/party/ConfesserBaras.jpeg" alt="Rurik Oathless" width="200" height="300">
 
 ---
 
@@ -28,7 +26,7 @@ Private campaign notes and session logs.
 **Race:** Dwarf  
 **Class:** Fighter  
 
-<img src="images/party/RurikOathless.jpeg" alt="Rurik Oathless" width="150" height="150">
+<img src="images/party/RurikOathless.jpeg" alt="Rurik Oathless" width="200" height="300">
 
 ---
 
@@ -36,7 +34,7 @@ Private campaign notes and session logs.
 **Race:** Tiefling  
 **Class:** Barbarian  
 
-![Unknown Tiefling](images/party/Unknown.jpeg)
+<img src="images/party/Unknown.jpeg" alt="Rurik Oathless" width="200" height="300">
 
 ---
 
@@ -44,7 +42,7 @@ Private campaign notes and session logs.
 **Race:** Elf  
 **Class:** Fighter  
 
-![Valen Wildhear](images/party/ValenWildheart.jpeg)
+<img src="images/party/ValenWildheart.jpeg" alt="Rurik Oathless" width="200" height="300">
 
 ---
 
