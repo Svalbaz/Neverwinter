@@ -83,6 +83,6 @@ The party travelled east along the Tivor Trail toward Thandalin. Along the way, 
 
 ---
 
-## DM Notes / Reminders
+## Notes / Reminders
 - Cave complex not fully explored
 - Prisoners and leaders may still be present
