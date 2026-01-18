@@ -18,7 +18,7 @@ Private campaign notes and session logs.
 **Race:** Human  
 **Class:** Cleric  
 
-![Confessor Baras](images/party/confessorbaras.jpeg)
+![Confessor Baras](images/party/ConfesserBaras.jpeg)
 
 ---
 
@@ -26,7 +26,7 @@ Private campaign notes and session logs.
 **Race:** Dwarf  
 **Class:** Fighter  
 
-![Rurik Oathless](images/party/rurikoathless.jpeg)
+![Rurik Oathless](images/party/RurikOathless.jpeg)
 
 ---
 
@@ -34,7 +34,7 @@ Private campaign notes and session logs.
 **Race:** Tiefling  
 **Class:** Barbarian  
 
-![Unknown Tiefling](images/party/unknown.jpeg)
+![Unknown Tiefling](images/party/Unknown.jpeg)
 
 ---
 
@@ -42,7 +42,7 @@ Private campaign notes and session logs.
 **Race:** Elf  
 **Class:** Fighter  
 
-![Valen Wildhear](images/party/valenwildheart.jpeg)
+![Valen Wildhear](images/party/ValenWildheart.jpeg)
 
 ---
 
