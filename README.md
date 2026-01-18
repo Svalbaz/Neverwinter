@@ -12,6 +12,8 @@ Private campaign notes and session logs.
 
 ![Cal Tir](images/party/CalTir.jpeg)
 
+
+
 ---
 
 ### ⛪ Confessor Baras
@@ -26,7 +28,7 @@ Private campaign notes and session logs.
 **Race:** Dwarf  
 **Class:** Fighter  
 
-![Rurik Oathless](images/party/RurikOathless.jpeg)
+<img src="images/party/RurikOathless.jpeg" alt="Rurik Oathless" width="150" height="150">
 
 ---
 
