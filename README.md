@@ -10,7 +10,7 @@ Private campaign notes and session logs.
 **Race:** Elf  
 **Class:** Sorcerer  
 
-![Cal Tir](images/party/caltir.jpeg)
+![Cal Tir](images/party/CalTir.jpeg)
 
 ---
 
