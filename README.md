@@ -48,4 +48,4 @@ Private campaign notes and session logs.
 
 ## Session Logs
 
-- [Session 01 – Wednesday 14th January 2026](sessions/session-01.md)
+- [Session 01 – Wednesday 14th January 2026](sessions/Session-01.md)
