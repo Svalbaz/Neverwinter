@@ -16,7 +16,7 @@
 ---
 
 ## Quest / Objective
-- Escort a caravan to **Thandalin**, a couple of days southeast of **Neverwinter**
+- Escort a caravan to **Phandalin**, a couple of days southeast of **Neverwinter**
 - Met **Gundrin**, who claims he and his brothers have discovered something significant
 - Reward offered: **10 GP**
 - Delivery contact: **Barthan’s Provisions**
@@ -24,7 +24,7 @@
 ---
 
 ## Session Summary
-The party travelled east along the Tivor Trail toward Thandalin. Along the way, signs of trouble quickly emerged, leading to goblin ambushes and the discovery of a hostile camp hidden off the main road.
+The party travelled east along the Tivor Trail toward Phandalin. Along the way, signs of trouble quickly emerged, leading to goblin ambushes and the discovery of a hostile camp hidden off the main road.
 
 ---
 
