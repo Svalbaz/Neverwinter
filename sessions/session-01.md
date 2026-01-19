@@ -89,8 +89,9 @@ The party travelled east along the Tivor Trail toward Phandalin. Along the way, 
 
 ---
 <a id="journal"></a>
-## Journal Entry — Rurik Oathless
+## Journal
 
+### Entry — Rurik Oathless
 *Written after the events of the day.*
 
 > We were meant to escort a caravan.  
