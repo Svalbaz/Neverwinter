@@ -66,3 +66,15 @@
 ## DM Notes / Reminders
 *(Optional – secrets, foreshadowing, prep reminders)*  
 - 
+
+---
+
+---
+
+## Journal Entry — Rurik Oathless
+
+*Written after the events of the day.*
+
+>
+> 
+
