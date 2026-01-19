@@ -88,6 +88,7 @@ The party travelled east along the Tivor Trail toward Phandalin. Along the way, 
 - Prisoners and leaders may still be present
 
 ---
+
 ## Journal
 
 ### Rurik Oathless
