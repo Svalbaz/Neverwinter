@@ -16,4 +16,5 @@
 ## Journal Entries By Character
 
 ### Rurik Oathless
-- [Session 01 – Tivor Trail & Goblin Cave](/sessions/session-01.md#journal)
+- [Session 01 – Tivor Trail & Goblin Cave](/sessions/session-01.md#user-content-journal)
+
