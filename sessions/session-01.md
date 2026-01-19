@@ -86,3 +86,23 @@ The party travelled east along the Tivor Trail toward Phandalin. Along the way, 
 ## Notes / Reminders
 - Cave complex not fully explored
 - Prisoners and leaders may still be present
+
+---
+
+## Journal Entry — Rurik Oathless
+
+*Written after the events of the day.*
+
+> We were meant to escort a caravan.  
+> Instead, we found dead horses, goblin arrows, and the uncomfortable feeling that whatever Gundrin found, someone else wants badly enough to kill for it.
+>
+> My companions… a mixed bunch at best. Maybe Baras will prove the mettle of humans, but Valen — pointy ears and quick hands do not make a fighter.  
+> Cal Tir is a little too adept at flinging magicks everywhere.
+>
+> Still, they were all adequate when it came time to clear out the greenskins.
+>
+> The Boy continues to test his luck with every fight and wears his heart on his sleeve. I’m beginning to suspect the gods are testing us through him.
+>
+> The cave ahead is dark and wet.  
+> Sentries and chained canines at the entrance suggest there may be a proper fight waiting within.
+
