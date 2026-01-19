@@ -6,6 +6,14 @@
 | **Elf**<br>Sorcerer | **Human**<br>Cleric | **Dwarf**<br>Fighter | **Tiefling**<br>Barbarian | **Elf**<br>Fighter |
 | Ben | Joe | Phill | Craig | Burns |
 
+---
+
 ## Session Logs
 
 - [Session 01 – Wednesday 14th January 2026](sessions/session-01.md)
+
+---
+
+## Journal Entries
+
+- [Session 01 – Tivor Trail & Goblin Cave](../sessions/session-01.md#journal-entry--rurik-oathless)
