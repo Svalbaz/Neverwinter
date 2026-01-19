@@ -8,7 +8,7 @@ These reflect personal perspectives, biases, and incomplete information.
 ## By Character
 
 ### Rurik Oathless
-- [Session 01 – Tivor Trail & Goblin Cave](../sessions/session-01.md#journal-rurik-oathless)
+- [Session 01 – Tivor Trail & Goblin Cave](../sessions/session-01.md#journal)
 
 ---
 
