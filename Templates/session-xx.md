@@ -69,12 +69,11 @@
 
 ---
 
----
+## Journal
 
-## Journal Entry — Rurik Oathless
-
+### Character Name
 *Written after the events of the day.*
 
->
-> 
-
+> Line 1
+> Line 2
+> Etc.
