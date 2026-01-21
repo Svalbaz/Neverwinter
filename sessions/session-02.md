@@ -20,7 +20,7 @@
   - Met **Gundrin**, who claims he and his brothers have discovered something significant
   - Reward offered: **10 GP**
   - Delivery contact: **Barthan’s Provisions**
-    - Clear out the Cave
+- Clear out the Cave
 
 ---
 
