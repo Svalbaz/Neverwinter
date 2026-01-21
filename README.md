@@ -18,4 +18,4 @@
 
 ### Rurik Oathless
 - [Session 01 – Tivor Trail & Goblin Cave](/sessions/session-01.md#user-content-journal)
-- [Session 02 – Tivor Trail & Goblin Cave Continued](/sessions/session-02.md#user-content-journal)
+- [Session 02 – Tivor Trail & Goblin Cave ...continued](/sessions/session-02.md#user-content-journal)
