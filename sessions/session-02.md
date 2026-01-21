@@ -233,17 +233,17 @@ The party continued deeper into the goblin cave system, uncovering strange symbo
 
 > The cave is not just a den — it is a nest.
 >
-> Goblins, kobolds, bugbears… different claws, same rot. Someone higher pulls the strings, and the name they whisper is the Green Lord.  
-> Titles mean little — power always smells the same.
+> Goblins, kobolds, bugbears… different claws, same rot. Someone higher, probably a woman pulling the strings, and the name they whisper is the Green Lord. They mean Lady.  
+> Titles mean little — power always smells the same and this smells like a woman.
 >
-> The Boy fights like a storm given flesh. Fire in his eyes, iron in his hands. Useful in battle — dangerous in silence.  
+> The Boy fights like a storm given flesh. Fire in his eyes, iron in his hands. Useful in battle — dangerous when allowed to speak. He let that Kobold run away leaving us blind to the dangers that lie ahead.
 > Baras still believes words can stop blades. Sometimes they can. Today they could not.
 >
 > The beast Klarg howled like a broken god when his hound fell.  
 > Grief and rage in one sound — I almost respected it.
 >
 > There is something else in these tunnels.  
-> Something that moves unseen. Watches. Waits.
+> Something that moves unseen. Watches. Waits. I felt it.
 >
 > And now Sildar lives — but questions remain buried in the dark.
 >
