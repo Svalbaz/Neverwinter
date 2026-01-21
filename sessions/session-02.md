@@ -11,7 +11,7 @@
 - Confessor Baras — Human Cleric
 - Rurik Oathless — Dwarf Fighter
 - Unknown — Tiefling Barbarian
-- Valen Wildhear — Elf Fighter
+- Valen Wildheart — Elf Fighter
 
 ---
 
