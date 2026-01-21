@@ -1,8 +1,8 @@
 # Greyhawk – Session XX
 
-**Date:**  
-**Location:**  
-**Party Level:**  
+**Date:**  Wednesday 21st January
+**Location:**  Tivor Trail → Goblin Cave
+**Party Level:**  1
 
 ---
 
