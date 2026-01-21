@@ -1,7 +1,7 @@
-# Greyhawk – Session XX
+# Greyhawk – Session 02
 
-**Date:** Wednesday 21st January 2026
-**Location:** Tivor Trail → Goblin Cave
+**Date:** Wednesday 21st January 2026  
+**Location:** Tivor Trail → Goblin Cave  
 **Party Level:** 1
 
 ---
