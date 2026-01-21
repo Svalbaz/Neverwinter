@@ -16,7 +16,7 @@
 ---
 
 ## Quest / Objective
-- 
+- Clear out the Cave
 
 ---
 
