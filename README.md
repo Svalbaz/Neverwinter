@@ -10,6 +10,7 @@
 ## Session Logs
 
 - [Session 01 – Wednesday 14th January 2026](sessions/session-01.md)
+- [Session 02 – Wednesday 21st January 2026](sessions/session-02.md)
 
 ---
 
@@ -17,4 +18,4 @@
 
 ### Rurik Oathless
 - [Session 01 – Tivor Trail & Goblin Cave](/sessions/session-01.md#user-content-journal)
-
+- [Session 02 – Tivor Trail & Goblin Cave](/sessions/session-02.md#user-content-journal)
