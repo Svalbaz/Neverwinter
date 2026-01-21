@@ -236,6 +236,8 @@ The party continued deeper into the goblin cave system, uncovering strange symbo
 > Goblins, kobolds, bugbears… different claws, same rot. Someone higher, probably a woman pulling the strings, and the name they whisper is the Green Lord. They mean Lady.  
 > Titles mean little — power always smells the same and this smells like a woman.
 >
+> I lied about the blade.. I don't know if it's Dwarven made but by Tempus I shan't let them know..
+> 
 > The Boy fights like a storm given flesh. Fire in his eyes, iron in his hands. Useful in battle — dangerous when allowed to speak. He let that Kobold run away leaving us blind to the dangers that lie ahead.
 > Baras still believes words can stop blades. Sometimes they can. Today they could not.
 >
