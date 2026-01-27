@@ -226,8 +226,6 @@ The party continued deeper into the goblin cave system, uncovering strange symbo
 
 ## Journal
 
-## Journal
-
 ### Rurik Oathless
 *Written after the events of the day.*
 
