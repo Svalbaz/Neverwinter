@@ -153,6 +153,10 @@ The party secured the survival of Sildar Hallwinter and learned of wider politic
   - Spotted large, ugly bandits entering it
 
 - **Qelline Alderleaf**, local farmer:
+- Rurik attempted to disguise himself as a **Redbrand** using his newly acquired disguise kit
+- Qelline Alderleaf mistook Rurik for an actual Redbrand and confronted him
+- Rurik was forced to double back, remove the disguise, and rejoin the group
+  - Only then did Qelline agree to lead the party to the tunnel
   - Escorted the party through their farm
 - Directions given by Carp:
   - Southeast edge of the farm
