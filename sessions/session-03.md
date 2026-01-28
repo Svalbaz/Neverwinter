@@ -151,7 +151,7 @@ The party secured the survival of Sildar Hallwinter and learned of wider politic
   - Spotted large, ugly bandits entering it
 
 - **Qelline Alderleaf**, local farmer:
-  - Escorted the party through her farm
+  - Escorted the party through their farm
 - Directions given by Carp:
   - Southeast edge of the farm
   - Follow the eastern path
