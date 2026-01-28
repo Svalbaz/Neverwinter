@@ -237,4 +237,16 @@ The party secured the survival of Sildar Hallwinter and learned of wider politic
 ### Confessor Baras
 *Written after the events of the day.*
 
-> *(To be written)*
+>  Shakes bad today, can feel the eye burning, its been gone three years but days like today I can still feel it boiling out of skull, shakes bad, hard to concentrate.
+> Phandalin not bad, seen worse, seen better.
+> I lost it, the tavern was too loud and too crowded, the boy was confessing a secret, gods no, the boy was talking wind as boys do, he doesn't know the covenant of confession.
+> I've burned boys younger than him in the pogroms, gods I can still hear the screams. no no no no NO NO STOP. NO NO NO NO NO. NO NO NO NO. I LEFT THAT BEHIND. I LEFT THAT BEHIND. I WAS JUST FOLLOWING THE WAY.. THE HIGH PRIEST LIED. THE HIGH PRIEST LIED.
+> Pull yourself together Baras, pull yourself together, bear your burdens, bear the confessions, this is your penance, listen to the confessions and carry them with you.
+> assigned myself penance, no food for three days, must take water or will be too weak to contribute. cant be a burden.
+> overheard talk of some bandits and a missing woodcarver in the tavern.
+> slept badly, always do after a lapse. I would have burned that boy, no you wouldn't no you wouldn't no you wouldn't no no no.
+> the boy snuck out in the small hours of the the little rascal was selling that frog statue he thinks we didnt see him pocket. he questioned my ability to keep secrets. briefly saw red. boy was joking.
+> lads went shopping, stayed in the square, saw a pathetic lump of a man purporting to be the townmaster, corrupulant in form, corrupt in spirit.
+> think he could see how close i am to losing it, told me where the redbrands were.. off we go. got to keep it together, can smell burning, but cant see fire.
+> eye itching badly.
+> met a farmer and his boy, informed us of a hole in the forest. turned out to be a bloody big cave - we're heading back to town for supplies before we tackle it.
