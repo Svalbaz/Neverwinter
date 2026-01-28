@@ -2,7 +2,7 @@
 
 **Date:** Wednesday 28th January 2026  
 **Location:** Phandalin & Surrounding Area  
-**Party Level:** 1
+**Party Level:** 2
 
 ---
 
