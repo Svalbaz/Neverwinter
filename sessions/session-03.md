@@ -60,7 +60,7 @@ The party secured the survival of Sildar Hallwinter and learned of wider politic
 
 ### Arrival
 - A villager recommended the **Stonehill Inn**
-- Rurik delivered the caravan to **Barthan**
+- The party delivered the caravan to **Barthan**
   - Barthan was distraught upon learning of Gundrin’s fate
   - Revealed that **both of Gundrin’s brothers are also missing**
 - Each party member received **10 GP**
