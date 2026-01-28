@@ -134,7 +134,7 @@ The party secured the survival of Sildar Hallwinter and learned of wider politic
   - *“Orcs near Wyvern Tor – enquire within”*
 - Baras questioned Harbin about the Redbrands
   - Intimidated him into speaking
-  - Harbin admitted:
+  - Harbin admitted (to Baras):
     - He has romantic feelings for **Elsa**, the barmaid
     - The Redbrands are a “mercenary guild”
     - He considers them “not much trouble”
