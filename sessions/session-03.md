@@ -125,7 +125,7 @@ The party secured the survival of Sildar Hallwinter and learned of wider politic
 
 ### Shopping & Preparation
 - *The Boy* sold the **Green Frog Statue with Golden Orb Eyes** for **40 GP**
-- Rurik purchased a **Disguise Kit**
+- Rurik purchased a **Disguise Kit** and a **Grappling Hook**
 - Cal Tir and Valen each purchased a **Healer’s Kit**
 
 ---
@@ -200,7 +200,7 @@ The party secured the survival of Sildar Hallwinter and learned of wider politic
   - 10 GP per party member (caravan delivery)
   - 40 GP from sale of frog statue *(The Boy)*
 - **Items:**
-  - Disguise Kit (Rurik)
+  - Disguise Kit & Grappling Hook (Rurik)
   - Healer’s Kits (Cal Tir, Valen)
 - **XP:** *(As awarded by DM)*
 
