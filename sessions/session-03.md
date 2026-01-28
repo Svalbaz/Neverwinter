@@ -88,6 +88,8 @@ The party secured the survival of Sildar Hallwinter and learned of wider politic
 - Rurik purchased a round of drinks and secured rooms
 - Sildar retired early
 - Rurik dropped his drink when a young barmaid handed it to him
+  - When **Elsa** spoke directly to Rurik, he went visibly red in the face and began spluttering his words
+  - Clear signs that Rurik is far less comfortable with people than with weapons
 
 - **Elsa**, the barmaid:
   - Mentioned **Daran Edermath**, orchard keeper and former adventurer
@@ -180,16 +182,16 @@ The party secured the survival of Sildar Hallwinter and learned of wider politic
 ## Notable NPCs
 - **Sildar Hallwinter** — Member of the Lord’s Alliance
 - **Iano Albrech** — Wizard of the Lord’s Alliance (absent)
-- **Barthan** — Merchant; employer; brother of missing dwarves
+- **Barthan** — Merchant; employer
 - **Toblen Stonehill** — Innkeeper
-- **Elsa** — Barmaid
+- **Elsa** — Barmaid (Toblen's daughter)
 - **Sister Gareale** — Elven caretaker of Tymora’s shrine
 - **Harbin Wester** — Ineffective Townmaster
 - **Halia Thornton** — Founder of the Miner’s Exchange
 - **Daran Edermath** — Orchard keeper; former adventurer
 - **Thel Dendrar** — Murdered woodcarver
 - **Qelline Alderleaf** — Local farmer
-- **Carp** — Halfling child; discovered the tunnel
+- **Carp** — Halfling child; son of Qelline, discovered the tunnel
 
 ---
 
@@ -206,9 +208,11 @@ The party secured the survival of Sildar Hallwinter and learned of wider politic
 
 ## Character Moments
 - Rurik openly scoffing at Tyr as a deity
-- Baras intimidating the Townmaster
+- Rurik becoming flustered and red-faced when Elsa the barmaid spoke to him
+- Baras intimidating the Townmaster into revealing secrets
 - Baras terrifying a child with his “bad eye”
 - The Boy quietly converting stolen loot into gold
+- Both Baras and Rurik demonstrating a notable lack of social skills
 - Growing tension around leadership, law, and secrecy
 
 ---
