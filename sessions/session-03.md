@@ -261,11 +261,11 @@ The party secured the survival of Sildar Hallwinter and learned of wider politic
 > 
 > slept badly, always do after a lapse. I would have burned that boy, no you wouldn't no you wouldn't no you wouldn't no no no.
 > 
-> the boy snuck out in the small hours of the the little rascal was selling that frog statue he thinks we didnt see him pocket. he questioned my ability to keep secrets. briefly saw red. boy was joking.
+> The boy snuck out in the small hours of the the little rascal was selling that frog statue he thinks we didnt see him pocket. he questioned my ability to keep secrets. briefly saw red. boy was joking.
 > 
-> lads went shopping, stayed in the square, saw a pathetic lump of a man purporting to be the townmaster, corrupulant in form, corrupt in spirit.
+> Lads went shopping, stayed in the square, saw a pathetic lump of a man purporting to be the townmaster, corrupulant in form, corrupt in spirit.
 > 
-> think he could see how close i am to losing it, told me where the redbrands were.. off we go. got to keep it together, can smell burning, but cant see fire.
+> Think he could see how close i am to losing it, told me where the redbrands were.. off we go. got to keep it together, can smell burning, but cant see fire.
 > 
 > Eye itching badly.
 > 
