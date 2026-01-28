@@ -259,7 +259,7 @@ The party secured the survival of Sildar Hallwinter and learned of wider politic
 >
 > Overheard talk of some bandits and a missing woodcarver in the tavern.
 > 
-> slept badly, always do after a lapse. I would have burned that boy, no you wouldn't no you wouldn't no you wouldn't no no no.
+> Slept badly, always do after a lapse. I would have burned that boy, no you wouldn't no you wouldn't no you wouldn't no no no.
 > 
 > The boy snuck out in the small hours of the the little rascal was selling that frog statue he thinks we didnt see him pocket. he questioned my ability to keep secrets. briefly saw red. boy was joking.
 > 
