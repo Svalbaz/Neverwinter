@@ -12,7 +12,8 @@
 - [Session 01 – Wednesday 14th January 2026](sessions/session-01.md)
 - [Session 02 – Wednesday 21st January 2026](sessions/session-02.md)
 - [Session 03 – Wednesday 28th January 2026](sessions/session-03.md)
-
+- [Session 04 – Wednesday 4th February 2026](sessions/session-04.md)
+- 
 ---
 
 ## Journal Entries By Character
