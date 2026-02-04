@@ -205,4 +205,14 @@ Sildar Hallwinter began asserting authority in Phandalin, outlining plans to dea
 ### Rurik Oathless
 *Written after the events of the day.*
 
-> *(To be written)*
+> Not our greatest day, we proved once again we can fight.. But maybe theres more to being an adventurer..
+>
+> This small town has a lot to offer, no wonder the Lord's Alliance want to set up here.
+>
+> We're definitely closer to unravelling the Redbrand conspiracy; but it looks like now our only choice is to go in and fight.
+> The Manor or the Hole.. we'll have to make a choice and stick to it.
+> 
+> I still don't understand how our plan didn't work
+> Maybe it was The Boy, he doesn't really look like a bandit.
+>
+> Baras has ..unusual methods for a Cleric.
