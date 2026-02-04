@@ -216,3 +216,7 @@ Sildar Hallwinter began asserting authority in Phandalin, outlining plans to dea
 > Maybe it was The Boy, he doesn't really look like a bandit.
 >
 > Baras has ..unusual methods for a Cleric.
+>
+> It is what it is.
+> 
+> Either way we're back at Stonehill Inn, again. We regroup and try again tomorrow.
