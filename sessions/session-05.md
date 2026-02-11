@@ -1,8 +1,8 @@
 # Greyhawk – Session XX
 
 **Date:**  11th January 2026
-**Location:**  
-**Party Level:**  
+**Location:**  Phandalin
+**Party Level:**  2
 
 ---
 
