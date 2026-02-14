@@ -5,6 +5,17 @@
 | <div align="center">Ben</div> | <div align="center">Joe</div> | <div align="center">Phill</div> | <div align="center">Craig</div> | <div align="center">Burns</div> |
 
 
+# Neverwinter
+
+A D&D 5e campaign set in the Sword Coast.
+
+⚠️ Player-facing notes only.
+DM secrets are stored separately.
+
+## Current Arc
+Exploring the myseries in and around Phandalin
+
+
 ---
 
 ## Session Logs
