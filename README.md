@@ -17,6 +17,15 @@
   
 ---
 
+## Journal Entries in order
+
+- [Session 01 – Tivor Trail & Goblin Cave](/sessions/session-01.md#user-content-journal)
+- [Session 02 – Tivor Trail & Goblin Cave ...continued](/sessions/session-02.md#user-content-journal)
+- [Session 03 – Phandalin ...continued](/sessions/session-03.md#user-content-journal)
+- [Session 04 – Phandalin](/sessions/session-04.md#user-content-journal)
+  
+---
+
 ## Journal Entries By Character
 
 ### Rurik Oathless
@@ -25,4 +34,4 @@
 - [Session 04 – Phandalin](/sessions/session-04.md#user-content-journal)
 
 ### Confessor Baras
-- [Session 03 – Phandalin](/sessions/session-03.md#user-content-journal)
+- [Session 03 – Phandalin ...continued](/sessions/session-03.md#user-content-journal)
