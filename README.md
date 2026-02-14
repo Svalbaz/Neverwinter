@@ -4,6 +4,7 @@
 | <div align="center">**Elf**<br>Sorcerer</div> | <div align="center">**Human**<br>Cleric</div> | <div align="center">**Dwarf**<br>Fighter</div> | <div align="center">**Tiefling**<br>Barbarian</div> | <div align="center">**Elf**<br>Fighter</div> |
 | <div align="center">Ben</div> | <div align="center">Joe</div> | <div align="center">Phill</div> | <div align="center">Craig</div> | <div align="center">Burns</div> |
 
+---
 
 # Neverwinter
 
