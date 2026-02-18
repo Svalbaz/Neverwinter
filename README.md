@@ -30,7 +30,8 @@ Exploring the mysteries in and around Phandalin.
 ## 📖 The Chronicle
 
 ### Act I — Phandalin & The Redbrands
-*Goblins stir the roads and corruption festers in the town.*
+> *Goblins stir the roads and corruption festers in the town.*
+
 
 | Session | Date          | Chapter                                                          |
 |---------|---------------|------------------------------------------------------------------|
