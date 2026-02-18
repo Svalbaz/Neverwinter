@@ -1,3 +1,19 @@
+# Neverwinter
+
+A D&D 5e campaign set in the Sword Coast.
+
+⚠️ Player-facing notes only.  
+DM secrets are stored separately.
+
+---
+
+## Current Arc
+Exploring the mysteries in and around Phandalin.
+
+---
+
+## Party Roster
+
 | Cal Tir 🧙 | Confessor Baras ⛪ | Rurik Oathless ⚔️ | Unknown 🪓 | Valen Wildheart 🏹 |
 |-----------|------------------|------------------|-----------|------------------|
 | <div align="center"><img src="images/party/CalTir.jpeg" width="180" height="270"></div> | <div align="center"><img src="images/party/ConfesserBaras.jpeg" width="180" height="270"></div> | <div align="center"><img src="images/party/RurikOathless.jpeg" width="180" height="270"></div> | <div align="center"><img src="images/party/Unknown.jpeg" width="180" height="270"></div> | <div align="center"><img src="images/party/ValenWildheart.jpeg" width="180" height="270"></div> |
@@ -6,46 +22,25 @@
 
 ---
 
-# Neverwinter
-
-A D&D 5e campaign set in the Sword Coast.
-
-⚠️ Player-facing notes only.
-DM secrets are stored separately.
-
-## Current Arc
-Exploring the myseries in and around Phandalin
-
-
----
-
 ## Session Logs
 
-- [Session 01 – Wednesday 14th January 2026](sessions/session-01.md)
-- [Session 02 – Wednesday 21st January 2026](sessions/session-02.md)
-- [Session 03 – Wednesday 28th January 2026](sessions/session-03.md)
-- [Session 04 – Wednesday 4th February 2026](sessions/session-04.md)
-- [Session 05 – Wednesday 18th February 2026](sessions/session-05.md)
-  
----
-
-## Journal Entries in order
-
-- [Session 01 – Tivor Trail & Goblin Cave](/sessions/session-01.md#user-content-journal)
-- [Session 02 – Tivor Trail & Goblin Cave ...continued](/sessions/session-02.md#user-content-journal)
-- [Session 03 – Phandalin](/sessions/session-03.md#user-content-journal)
-- [Session 04 – Phandalin ...continued](/sessions/session-04.md#user-content-journal)
-- [Session 05 – Phandalin ...The Cave](/sessions/session-05.md#user-content-journal)
+| Session                              | Date        | Location               |
+|--------------------------------------|------------ |------------------------|
+| [Session 01](sessions/session-01.md) | 14 Jan 2026 | Tivor Trail            |
+| [Session 02](sessions/session-02.md) | 21 Jan 2026 | Goblin Cave            |
+| [Session 03](sessions/session-03.md) | 28 Jan 2026 | Arrival in Town        |
+| [Session 04](sessions/session-04.md) | 4 Feb 2026  | Redbrand Street Fight  |
+| [Session 05](sessions/session-05.md) | 18 Feb 2026 | Redbrand Cave          |
 
 ---
 
-## Journal Entries By Character
+## Character Journals
 
 ### Rurik Oathless
-- [Session 01 – Tivor Trail & Goblin Cave](/sessions/session-01.md#user-content-journal)
-- [Session 02 – Tivor Trail & Goblin Cave ...continued](/sessions/session-02.md#user-content-journal)
-- [Session 04 – Phandalin ...continued](/sessions/session-04.md#user-content-journal)
-- [Session 05 – Phandalin ...The Cave](/sessions/session-05.md#user-content-journal)
+- [Session 01 – Tivor Trail & Goblin Cave](sessions/session-01.md#user-content-journal)
+- [Session 02 – Tivor Trail & Goblin Cave](sessions/session-02.md#user-content-journal)
+- [Session 04 – Phandalin](sessions/session-04.md#user-content-journal)
+- [Session 05 – Phandalin (The Cave)](sessions/session-05.md#user-content-journal)
 
 ### Confessor Baras
-- [Session 03 – Phandalin](/sessions/session-03.md#user-content-journal)
+- [Session 03 – Phandalin](sessions/session-03.md#user-content-journal)
