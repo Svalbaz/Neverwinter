@@ -2,6 +2,11 @@
 
 A D&D 5e campaign set in the Sword Coast.
 
+This repository serves as a shared reference for session notes.  
+Players can review sessions at their leisure, and the Party Roster will update as characters come and go.
+
+The Chronicle below records each session in a consistent format.
+
 ⚠️ Player-facing notes only.  
 DM secrets are stored separately.
 
@@ -25,14 +30,15 @@ Exploring the mysteries in and around Phandalin.
 ## 📖 The Chronicle
 
 ### Act I — Phandalin & The Redbrands
+*Goblins stir the roads and corruption festers in the town.*
 
 | Session | Date          | Chapter                                                          |
 |---------|---------------|------------------------------------------------------------------|
 | 01      | 14 Jan 2026   | [Goblin Ambush on the Tivor Trail](sessions/session-01.md)       |
-| 02      | 21 Jan 2026   | [The Goblin Cave](sessions/session-02.md)                            |
-| 03      | 28 Jan 2026   | [Arrival in Phandalin](sessions/session-03.md)                        |
-| 04      | 04 Feb 2026   | [The Redbrand Street Fight](sessions/session-04.md)                  |
-| 05      | 18 Feb 2026   | [Inside the Redbrand Cave](sessions/session-05.md)                          |
+| 02      | 21 Jan 2026   | [The Goblin Cave](sessions/session-02.md)                        |
+| 03      | 28 Jan 2026   | [Arrival in Phandalin](sessions/session-03.md)                   |
+| 04      | 04 Feb 2026   | [The Redbrand Street Fight](sessions/session-04.md)              |
+| 05      | 18 Feb 2026   | [Inside the Redbrand Cave](sessions/session-05.md)               |
 
 ---
 
