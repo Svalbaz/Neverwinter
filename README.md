@@ -37,7 +37,6 @@ Exploring the myseries in and around Phandalin
 - [Session 04 – Phandalin ...continued](/sessions/session-04.md#user-content-journal)
 - [Session 05 – Phandalin ...The Cave](/sessions/session-05.md#user-content-journal)
 
-- 
 ---
 
 ## Journal Entries By Character
