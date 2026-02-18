@@ -29,10 +29,10 @@ Exploring the mysteries in and around Phandalin.
 | Session | Date          | Chapter                                                          |
 |---------|---------------|------------------------------------------------------------------|
 | 01      | 14 Jan 2026   | [Goblin Ambush on the Tivor Trail](sessions/session-01.md)       |
-| 02      | 21 Jan 2026   | [Goblin Cave](sessions/session-02.md)                            |
-| 03      | 28 Jan 2026   | [Arrival in Town](sessions/session-03.md)                        |
-| 04      | 04 Feb 2026   | [Redbrand Street Fight](sessions/session-04.md)                  |
-| 05      | 18 Feb 2026   | [Redbrand Cave](sessions/session-05.md)                          |
+| 02      | 21 Jan 2026   | [The Goblin Cave](sessions/session-02.md)                            |
+| 03      | 28 Jan 2026   | [Arrival in Phandalin](sessions/session-03.md)                        |
+| 04      | 04 Feb 2026   | [The Redbrand Street Fight](sessions/session-04.md)                  |
+| 05      | 18 Feb 2026   | [Inside the Redbrand Cave](sessions/session-05.md)                          |
 
 ---
 
