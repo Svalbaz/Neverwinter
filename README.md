@@ -44,10 +44,10 @@ Exploring the mysteries in and around Phandalin.
 
 ## 📜 Character Journal Index
 
-| Session  | ⚔️ Rurik                                            | ⛪ Baras                                             | 🧙 Cal Tir | 🪓 Unknown | 🏹 Valen        |
-|----------|------------------------------------------------------|------------------------------------------------------|------------|------------|-------------------|
-| 01       | [Entry](sessions/session-01.md#user-content-journal) | —                                                    | —          | —          | —                 |
-| 02       | [Entry](sessions/session-02.md#user-content-journal) | —                                                    | —          | —          | —                 |
-| 03       | —                                                    | [Entry](sessions/session-03.md#user-content-journal) | —          | —          | —                 |
-| 04       | [Entry](sessions/session-04.md#user-content-journal) | —                                                    | —          | —          | —                 |
-| 05       | [Entry](sessions/session-05.md#user-content-journal) | —                                                    | —          | —          | —                 |
+| Session  | ⚔️ Rurik                                                | ⛪ Baras                                               | 🧙 Cal Tir | 🪓 Unknown | 🏹 Valen        |
+|----------|----------------------------------------------------------|--------------------------------------------------------|------------|------------|-------------------|
+| 01       | [Journal](sessions/session-01.md#user-content-journal)   | —                                                      | —          | —          | —                 |
+| 02       | [Journal](sessions/session-02.md#user-content-journal)   | —                                                      | —          | —          | —                 |
+| 03       | —                                                        | [Journal](sessions/session-03.md#user-content-journal) | —          | —          | —                 |
+| 04       | [Journal](sessions/session-04.md#user-content-journal)   | —                                                      | —          | —          | —                 |
+| 05       | [Journal](sessions/session-05.md#user-content-journal)   | —                                                      | —          | —          | —                 |
