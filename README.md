@@ -42,13 +42,12 @@ Exploring the mysteries in and around Phandalin.
 
 ---
 
-## Character Journals
+## 📜 Character Journal Index
 
-### Rurik Oathless
-- [Session 01 – Tivor Trail & Goblin Cave](sessions/session-01.md#user-content-journal)
-- [Session 02 – Tivor Trail & Goblin Cave](sessions/session-02.md#user-content-journal)
-- [Session 04 – Phandalin](sessions/session-04.md#user-content-journal)
-- [Session 05 – Phandalin (The Cave)](sessions/session-05.md#user-content-journal)
-
-### Confessor Baras
-- [Session 03 – Phandalin](sessions/session-03.md#user-content-journal)
+| Session  | ⚔️ Rurik                                            | ⛪ Baras                                             | 🧙 Cal Tir | 🪓 Unknown | 🏹 Valen        |
+|----------|------------------------------------------------------|------------------------------------------------------|------------|------------|-------------------|
+| 01       | [Entry](sessions/session-01.md#user-content-journal) | —                                                    | —          | —          | —                 |
+| 02       | [Entry](sessions/session-02.md#user-content-journal) | —                                                    | —          | —          | —                 |
+| 03       | —                                                    | [Entry](sessions/session-03.md#user-content-journal) | —          | —          | —                 |
+| 04       | [Entry](sessions/session-04.md#user-content-journal) | —                                                    | —          | —          | —                 |
+| 05       | [Entry](sessions/session-05.md#user-content-journal) | —                                                    | —          | —          | —                 |
