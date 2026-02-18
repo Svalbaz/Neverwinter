@@ -65,7 +65,7 @@
 
 ---
 
-## DM Notes / Reminders
+## Notes / Reminders
 *(Optional – secrets, foreshadowing, prep reminders)*  
 - 
 
