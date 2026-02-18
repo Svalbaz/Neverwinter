@@ -25,7 +25,7 @@ Exploring the myseries in and around Phandalin
 - [Session 02 – Wednesday 21st January 2026](sessions/session-02.md)
 - [Session 03 – Wednesday 28th January 2026](sessions/session-03.md)
 - [Session 04 – Wednesday 4th February 2026](sessions/session-04.md)
-- [Session 05 – Wednesday 4th February 2026](sessions/session-05.md)
+- [Session 05 – Wednesday 18th February 2026](sessions/session-05.md)
   
 ---
 
