@@ -93,7 +93,7 @@ The party continued deeper into the goblin cave system, uncovering strange symbo
 
 ### Interrogation & Aftermath
 - Party interrogates surviving kobold
-- Kobold claims Klarg took orders from the **“Green Lord”**
+- Kobold's mentioned the **“Green Lord”**
 - Rurik identifies Klarg as likely a **Bugbear**
 - *The Boy* allows the kobold to flee without further questioning
   - Party is upset, as no information was gathered about:
