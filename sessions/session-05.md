@@ -1,6 +1,6 @@
 # Greyhawk – Session 05
 
-**Date:** Wednesday 11th February 2026  
+**Date:** Wednesday 18th February 2026  
 **Location:** Phandalin → Redbrand Hideout  
 **Party Level:** 2  
 
