@@ -25,7 +25,7 @@ Exploring the myseries in and around Phandalin
 - [Session 02 – Wednesday 21st January 2026](sessions/session-02.md)
 - [Session 03 – Wednesday 28th January 2026](sessions/session-03.md)
 - [Session 04 – Wednesday 4th February 2026](sessions/session-04.md)
-
+- [Session 05 – Wednesday 4th February 2026](sessions/session-05.md)
   
 ---
 
@@ -35,7 +35,9 @@ Exploring the myseries in and around Phandalin
 - [Session 02 – Tivor Trail & Goblin Cave ...continued](/sessions/session-02.md#user-content-journal)
 - [Session 03 – Phandalin](/sessions/session-03.md#user-content-journal)
 - [Session 04 – Phandalin ...continued](/sessions/session-04.md#user-content-journal)
-  
+- [Session 05 – Phandalin ...The Cave](/sessions/session-05.md#user-content-journal)
+
+- 
 ---
 
 ## Journal Entries By Character
@@ -44,6 +46,7 @@ Exploring the myseries in and around Phandalin
 - [Session 01 – Tivor Trail & Goblin Cave](/sessions/session-01.md#user-content-journal)
 - [Session 02 – Tivor Trail & Goblin Cave ...continued](/sessions/session-02.md#user-content-journal)
 - [Session 04 – Phandalin ...continued](/sessions/session-04.md#user-content-journal)
+- [Session 05 – Phandalin ...The Cave](/sessions/session-05.md#user-content-journal)
 
 ### Confessor Baras
 - [Session 03 – Phandalin](/sessions/session-03.md#user-content-journal)
