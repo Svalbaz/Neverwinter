@@ -26,7 +26,7 @@ Exploring the mysteries in and around Phandalin.
 
 ### Act I — Phandalin & The Redbrands
 
-| Session | Date          | Location                                                         |
+| Session | Date          | Chapter                                                          |
 |---------|---------------|------------------------------------------------------------------|
 | 01      | 14 Jan 2026   | [Goblin Ambush on the Tivor Trail](sessions/session-01.md)       |
 | 02      | 21 Jan 2026   | [Goblin Cave](sessions/session-02.md)                            |
