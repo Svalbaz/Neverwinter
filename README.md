@@ -26,13 +26,13 @@ Exploring the mysteries in and around Phandalin.
 
 ### Act I — Phandalin & The Redbrands
 
-| Session                              | Date        | Location                                                         |
-|--------------------------------------|------------ |------------------------------------------------------------------|
-| [Session 01](sessions/session-01.md) | 14 Jan 2026 | [Goblin Ambush on the Tivor Trail](sessions/session-01.md)       |
-| [Session 02](sessions/session-02.md) | 21 Jan 2026 | [Goblin Cave](sessions/session-02.md)                            |
-| [Session 03](sessions/session-03.md) | 28 Jan 2026 | [Arrival in Town](sessions/session-03.md)                        |
-| [Session 04](sessions/session-04.md) | 04 Feb 2026 | [Redbrand Street Fight](sessions/session-04.md)                  |
-| [Session 05](sessions/session-05.md) | 18 Feb 2026 | [Redbrand Cave](sessions/session-05.md)                          |
+| Session | Date          | Location                                                         |
+|---------|---------------|------------------------------------------------------------------|
+| 01      | 14 Jan 2026   | [Goblin Ambush on the Tivor Trail](sessions/session-01.md)       |
+| 02      | 21 Jan 2026   | [Goblin Cave](sessions/session-02.md)                            |
+| 03      | 28 Jan 2026   | [Arrival in Town](sessions/session-03.md)                        |
+| 04      | 04 Feb 2026   | [Redbrand Street Fight](sessions/session-04.md)                  |
+| 05      | 18 Feb 2026   | [Redbrand Cave](sessions/session-05.md)                          |
 
 ---
 
