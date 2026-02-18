@@ -48,6 +48,8 @@
 - Gold:
 - Items:
 - XP:
+- Current XP Total: XXX (Level X)
+
 
 ---
 
