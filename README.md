@@ -17,7 +17,7 @@ Exploring the mysteries in and around Phandalin.
 
 ---
 
-## Party Roster
+## 🛡️ Party Roster
 
 | Cal Tir 🧙 | Confessor Baras ⛪ | Rurik Oathless ⚔️ | Unknown 🪓 | Valen Wildheart 🏹 |
 |-----------|------------------|------------------|-----------|------------------|
