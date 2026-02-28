@@ -16,7 +16,7 @@
 ---
 
 ## Quest / Objective
-- Investigate the **Redbrands**
+- Investigate the [**Redbrands**](https://github.com/Svalbaz/Neverwinter/blob/main/organisations/README.md#the-redbrands)
 - Discover the fate of **Iano Albrech**
 - Apply pressure to **Cragmaw Castle**
 - Restore order and safety to Phandalin
