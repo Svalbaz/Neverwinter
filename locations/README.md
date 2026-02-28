@@ -43,6 +43,7 @@ If the NPC earns their own page, or they are a member of a prominent [organisati
 ## 🏠 Phandalin Locations
 
 | Location | Details | NPCs |
+|----------|---------|------|
 | Alderleaf Farm | Small Farm | Qelline & Carp Alderleaf |
 | Cragmaw Castle | Enemy Fortress | Unknown |
 | Miner's Exchange | Mining Conglomerate | Halia Thornton |
