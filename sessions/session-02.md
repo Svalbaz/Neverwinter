@@ -16,7 +16,7 @@
 ---
 
 ## Quest / Objective
-- Escort a caravan to **[Phandalin](https://github.com/Svalbaz/Neverwinter/blob/main/organisations/README.md#the-lords-alliance)**, a couple of days southeast of **Neverwinter**
+- Escort a caravan to **[Phandalin](https://github.com/Svalbaz/Neverwinter/blob/main/locations/README.md#-phandalin)**, a couple of days southeast of **Neverwinter**
   - Met **Gundrin**, who claims he and his brothers have discovered something significant
   - Reward offered: **10 GP**
   - Delivery contact: **Barthan’s Provisions**
