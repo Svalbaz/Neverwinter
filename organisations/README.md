@@ -10,8 +10,8 @@
 - 🔴 [The Redbrands](#the-redbrands)
   
 ---
-
-## ⚔️ The Lords' Alliance
+## ⚔️ 
+## The Lords' Alliance
 
 **Type:** Partnership of merchant cities    
 
@@ -28,7 +28,7 @@ The Lords' Alliance, also known as the Council of Lords, is a partnership of mer
 - Friendly
 
 ---
-
+## ⚖️ 
 ## The Harpers
 
 **Type:** Semi-Secretive Spy network    
@@ -45,7 +45,7 @@ Dedicated to preserving historical lore, maintaining the balance between nature 
 - Friendly
 
 ---
-
+## 🔴 
 ## The Redbrands
 
 **Type:** Criminal Gang, masquerading as a Merchants Guild
