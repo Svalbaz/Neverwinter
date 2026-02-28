@@ -44,7 +44,7 @@ If the NPC earns their own page, or they are a member of a prominent [organisati
 
 | Location | Details | NPCs |
 |----------|---------|------|
-| Alderleaf Farm | Small Farm | Qelline & Carp Alderleaf |
+| Alderleaf Farm | Small Farm, location of The Tunnel which leads under Tresendar Manor | Qelline & Carp Alderleaf |
 | Cragmaw Castle | Enemy Fortress | Unknown |
 | Miner's Exchange | Mining Conglomerate | Halia Thornton |
 | Sleeping Giant Tap House | Tavern, frequented by Redbrands | |
