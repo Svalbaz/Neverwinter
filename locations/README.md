@@ -50,6 +50,6 @@ If the NPC earns their own page, or they are a member of a prominent [organisati
 | Sleeping Giant Tap House | Tavern, frequented by Redbrands | |
 | Stonehill Inn | Tavern | Toblen & Elsa Stonehill |
 | Town Hall | Municipal Building | Harbin Wester & Sildar Hallwinter |
-| Tresendar Manor | Broken down Manor on the East side of town, presumed Redbrand fortress | Unknown |
+| Tresendar Manor | Broken down Manor on the East side of town, presumed Redbrand fortress | |
 
 ---
