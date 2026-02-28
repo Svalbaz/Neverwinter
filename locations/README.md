@@ -6,7 +6,8 @@ It will list major NPCs and interesting things that the party have discovered as
 
 ---
 
-## Location List
-This will link to either the Location's own page or an anchor for that location towards the bottom of this page
+## 🏛️ Location List
 
----
+### Major Locations - Cities, Towns etc.
+> *A city is like a great stone ship drifting through time.*
+
