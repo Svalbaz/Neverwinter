@@ -25,21 +25,21 @@ If the NPC earns their own page, there will be a link. Otherwise it will list im
 
 
 
-| Name                   | Race             | Details                                       | Allegiance                    |
-|------------------------|------------------|-----------------------------------------------|-------------------------------|
-| Barthan                | Dwarf            | Merchant; employer                            | Friendly                      |
-| Carp                   | Halfling child   | Son of Qelline, discovered the tunnel         | Friendly                      |
-| Daran Edermath         |                  | Orchard keeper; former adventurer             | Unknown                       |
-| Droop                  | Goblin           | Cleaner, found in the Redbrand Cave           | Unknown                       |
-| Elsa                   |                  | Barmaid (Toblen's daughter)                   | Friendly                      |
-| Glass Staff            |                  | Redbrand leader (unseen)                      | Enemy                         |
-| Halia Thornton         |                  | Head & Founder of the Miner’s Exchange        | Presumed Friendly             |
-| Harbin Wester          |                  | Town Master of Phandalin                      | Unknown                       |
-| Iano Albrech           |                  | Wizard of the Lord’s Alliance (absent)        | Presumed Friendly             |
-| Sildar Hallwinter      |                  | Member of the Lord’s Alliance                 | Friendly                      |
-| Sister Garaele         | Elf              | Harper agent and Cleric of Savras             | Friendly                      |
-| Toblen Stonehill       | Elf              | Innkeeper                                     | Friendly                      |
-| Qelline Alderleaf      | Halflin          | Local farmer                                  | Friendly                      |
+| Name                   | Race             | Details                                       | Allegiance                    | Organisation                  |
+|------------------------|------------------|-----------------------------------------------|-------------------------------|-------------------------------|
+| Barthan                | Dwarf            | Merchant; employer                            | Friendly                      |                               | 
+| Carp                   | Halfling child   | Son of Qelline, discovered the tunnel         | Friendly                      |                               | 
+| Daran Edermath         |                  | Orchard keeper; former adventurer             | Unknown                       |                               | 
+| Droop                  | Goblin           | Cleaner, found in the Redbrand Cave           | Unknown                       |                               | 
+| Elsa                   |                  | Barmaid (Toblen's daughter)                   | Friendly                      |                               | 
+| Glass Staff            |                  | Redbrand leader (unseen)                      | Enemy                         |                               | 
+| Halia Thornton         |                  | Head & Founder of the Miner’s Exchange        | Presumed Friendly             |                               | 
+| Harbin Wester          |                  | Town Master of Phandalin                      | Unknown                       |                               | 
+| Iano Albrech           |                  | Wizard of the Lord’s Alliance (absent)        | Presumed Friendly             | Lord’s Alliance               | 
+| Sildar Hallwinter      |                  | Member of the Lord’s Alliance                 | Friendly                      | Lord’s Alliance               | 
+| Sister Garaele         | Elf              | Harper agent and Cleric of Savras             | Friendly                      |                               | 
+| Toblen Stonehill       | Elf              | Innkeeper                                     | Friendly                      |                               | 
+| Qelline Alderleaf      | Halflin          | Local farmer                                  | Friendly                      |                               | 
 
 
 ## 🏠 Phandalin Locations
