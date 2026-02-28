@@ -13,7 +13,7 @@ DM secrets are stored separately.
 ---
 
 ## Current Arc
-Exploring the mysteries in and around [Phandalin]([url](https://github.com/Svalbaz/Neverwinter/blob/main/locations/README.md#-phandalin)).
+Exploring the mysteries in and around [Phandalin](https://github.com/Svalbaz/Neverwinter/blob/main/locations/README.md#-phandalin).
 
 ---
 
