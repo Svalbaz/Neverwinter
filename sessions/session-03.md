@@ -23,7 +23,7 @@
 ---
 
 ## Session Summary
-The party secured the survival of Sildar Hallwinter and learned of wider political forces at play through the Lord’s Alliance. After safely delivering the caravan to Phandalin, they uncovered a town plagued by lawlessness, intimidation, and disappearances. Multiple leads presented themselves, culminating in the discovery of a hidden tunnel believed to be connected to the Redbrands.
+The party secured the survival of Sildar Hallwinter and learned of wider political forces at play through the [Lords's Alliance](https://github.com/Svalbaz/Neverwinter/blob/main/organisations/README.md#the-lords-alliance). After safely delivering the caravan to Phandalin, they uncovered a town plagued by lawlessness, intimidation, and disappearances. Multiple leads presented themselves, culminating in the discovery of a hidden tunnel believed to be connected to the Redbrands.
 
 ---
 
