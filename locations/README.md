@@ -26,10 +26,10 @@ If the NPC earns their own page, or they are a member of a prominent [organisati
 | Name                   | Race             | Details                                       | Allegiance                    | Organisation                                                                                                      |
 |------------------------|------------------|-----------------------------------------------|-------------------------------|-------------------------------------------------------------------------------------------------------------------|
 | Barthan                | Dwarf            | Merchant; employer                            | Friendly                      |                                                                                                                   | 
-| Carp                   | Halfling child   | Son of Qelline, discovered the tunnel         | Friendly                      |                                                                                                                   | 
+| Carp Alderleaf         | Halfling child   | Son of Qelline, discovered the tunnel         | Friendly                      |                                                                                                                   | 
 | Daran Edermath         |                  | Orchard keeper; former adventurer             | Unknown                       |                                                                                                                   | 
 | Droop                  | Goblin           | Cleaner, found in the Redbrand Cave           | Unknown                       |                                                                                                                   | 
-| Elsa                   |                  | Barmaid (Toblen's daughter)                   | Friendly                      |                                                                                                                   | 
+| Elsa Stonehill         |                  | Barmaid (Toblen's daughter)                   | Friendly                      |                                                                                                                   | 
 | Glass Staff            |                  | Redbrand leader (unseen)                      | Enemy                         |                                                                                                                   | 
 | Halia Thornton         |                  | Head & Founder of the Miner’s Exchange        | Presumed Friendly             |                                                                                                                   | 
 | Harbin Wester          |                  | Town Master of Phandalin                      | Unknown                       |                                                                                                                   | 
@@ -43,12 +43,12 @@ If the NPC earns their own page, or they are a member of a prominent [organisati
 ## 🏠 Phandalin Locations
 
 | Location | Details | NPCs |
-| Alderleaf Farm | Small Farm | |
-| Cragmaw Castle | Enemy Fortress | |
-| Miner's Exchange | Mining Conglomerate | |
+| Alderleaf Farm | Small Farm | Qelline & Carp Alderleaf |
+| Cragmaw Castle | Enemy Fortress | Unknown |
+| Miner's Exchange | Mining Conglomerate | Halia Thornton |
 | Sleeping Giant Tap House | Tavern, frequented by Redbrands | |
-| Stonehill Inn | Tavern, | Toblen & Elsa |
-| Town Hall | | |
-| Tresendar Manor | | |
+| Stonehill Inn | Tavern | Toblen & Elsa Stonehill |
+| Town Hall | Municipal Building | Harbin Wester & Sildar Hallwinter |
+| Tresendar Manor | Broken down Manor on the East side of town, presumed Redbrand fortress | Unknown |
 
 ---
