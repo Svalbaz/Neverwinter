@@ -7,7 +7,8 @@
 
 - ⚔️ [The Lords' Alliance](#the-lords-alliance)
 - ⚖️ [The Harpers](#the-harpers)
-
+- 🔴 [The Redbrands](#the-redbrands)
+  
 ---
 
 ## The Lords' Alliance
@@ -42,5 +43,22 @@ Dedicated to preserving historical lore, maintaining the balance between nature 
 
 ### Relationship to the Party
 - Friendly
+
+---
+
+## The Redbrands
+
+**Type:** Criminal Gang, masquerading as a Merchants Guild
+
+**Alignment / Reputation:** Evil    
+
+### Overview
+A large group of Brigands, reported to have abducted and murdered several townsfolk.
+
+### Known Members
+- Glass Staff
+
+### Relationship to the Party
+- Enemy
 
 
