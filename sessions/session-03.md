@@ -1,7 +1,7 @@
 # Greyhawk – Session 03
 
 **Date:** Wednesday 28th January 2026  
-**Location:** [Phandalin](https://github.com/Svalbaz/Neverwinter/blob/main/organisations/README.md#the-lords-alliance) & Surrounding Area  
+**Location:** [Phandalin](https://github.com/Svalbaz/Neverwinter/blob/main/locations/README.md#-phandalin) & Surrounding Area  
 **Party Level:** 2
 
 ---
