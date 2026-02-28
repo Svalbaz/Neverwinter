@@ -8,7 +8,7 @@ It will list major NPCs and interesting things that the party have discovered as
 
 ## 🏛️ Location List
 
-### Major Locations - Cities, Towns etc.
+### Major Locations - Geographic Areas
 > *"A city is like a great stone ship drifting through time."*
 
 ### The Sword Coast
