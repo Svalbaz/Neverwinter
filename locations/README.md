@@ -11,31 +11,12 @@ It will list major NPCs and interesting things that the party have discovered as
 ### Major Locations - Cities, Towns etc.
 > *A city is like a great stone ship drifting through time.*
 
-- 🏰 [Phandalin](#phandalin)
+### The Sword Coast
+- 🏰 [Phandalin](#phandalin) - A Small town on the Sword Coast
 
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 🏰 Phandalin
-Description...
+
 
 ---
