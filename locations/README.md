@@ -42,7 +42,7 @@ If the NPC earns their own page, or they are a member of a prominent [organisati
 
 ## 🏠 Phandalin Locations
 
-| Location | Details |
+| Location | Details | 
 | Alderleaf Farm | Small Farm |
 | Cragmaw Castle | |
 | Miner's Exchange | |
