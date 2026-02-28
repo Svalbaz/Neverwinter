@@ -1,6 +1,6 @@
 # Organisations
 
-## Organisation List 🏛️
+## 🏛️ Organisation List
 
 ### Major Organisations – Powerful Guilds, National Criminal Gangs etc.
 > *Power gathers in circles. Names change — the circle remains.*
