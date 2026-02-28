@@ -23,8 +23,6 @@ If the NPC earns their own page, or they are a member of a prominent [organisati
 
 ## 🙎 Phandalin NPCs
 
-
-
 | Name                   | Race             | Details                                       | Allegiance                    | Organisation                                                                                                      |
 |------------------------|------------------|-----------------------------------------------|-------------------------------|-------------------------------------------------------------------------------------------------------------------|
 | Barthan                | Dwarf            | Merchant; employer                            | Friendly                      |                                                                                                                   | 
@@ -43,5 +41,14 @@ If the NPC earns their own page, or they are a member of a prominent [organisati
 
 
 ## 🏠 Phandalin Locations
+
+| Location | Details |
+| Alderleaf Farm | Small Farm |
+| Cragmaw Castle | |
+| Miner's Exchange | |
+| Sleeping Giant Tap House | |
+| Stonehill Inn | |
+| Town Hall | |
+| Tresendar Manor | |
 
 ---
