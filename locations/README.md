@@ -25,7 +25,7 @@ If the NPC earns their own page, there will be a link. Otherwise it will list im
 
 
 
-| **Name**                   | Race             | Details                                       | Allegiance                    |
+| Name                   | Race             | Details                                       | Allegiance                    |
 |------------------------|------------------|-----------------------------------------------|-------------------------------|
 | Barthan                | Dwarf            | Merchant; employer                            | Friendly                      |
 | Carp                   | Halfling child   | Son of Qelline, discovered the tunnel         | Friendly                      |
