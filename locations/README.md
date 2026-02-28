@@ -20,4 +20,5 @@ It will list major NPCs and interesting things that the party have discovered as
 > *"If the town had a Constabulory, you'd all be locked up"* - Harbin Wester — Town Master of Phandalin
 
 ## 🙎 Phandalin NPCs
+
 ---
