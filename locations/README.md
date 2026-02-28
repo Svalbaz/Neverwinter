@@ -9,7 +9,7 @@ It will list major NPCs and interesting things that the party have discovered as
 ## 🏛️ Location List
 
 ### Major Locations - Cities, Towns etc.
-> *A city is like a great stone ship drifting through time.*
+> *"A city is like a great stone ship drifting through time."*
 
 ### The Sword Coast
 - 🏰 [Phandalin](#phandalin) - A Small town on the Sword Coast
@@ -17,6 +17,6 @@ It will list major NPCs and interesting things that the party have discovered as
 ---
 
 ## 🏰 Phandalin
-> *If the town had a Constabulory, you'd all be locked up* - Harbin Wester — Town Master of Phandalin
+> *"If the town had a Constabulory, you'd all be locked up"* - Harbin Wester — Town Master of Phandalin
 
 ---
