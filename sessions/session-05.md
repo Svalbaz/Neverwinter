@@ -16,7 +16,7 @@
 ---
 
 ## Quest / Objective
-- Investigate and dismantle the [Redbrands](https://github.com/Svalbaz/Neverwinter/blob/main/organisations/README.md#the-redbrands)
+- Investigate and dismantle the [**Redbrands**](https://github.com/Svalbaz/Neverwinter/blob/main/organisations/README.md#the-redbrands)
 - Discover the fate of Iarno Albrek
 - Gather intelligence regarding Cragmaw Castle
 
