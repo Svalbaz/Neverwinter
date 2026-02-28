@@ -234,7 +234,7 @@ The party secured the survival of Sildar Hallwinter and learned of wider politic
 
 ## Notes / Reminders
 - Town has no effective law enforcement
-- Redbrands operate openly
+- [**Redbrands**](https://github.com/Svalbaz/Neverwinter/blob/main/organisations/README.md#the-redbrands) operate openly
 - Lord’s Alliance interests now confirmed
 - Multiple quest hooks active simultaneously
 
