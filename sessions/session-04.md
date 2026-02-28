@@ -1,7 +1,7 @@
 # Greyhawk – Session 04
 
 **Date:** Wednesday 4th February 2026  
-**Location:** Phandalin  
+**Location:** [Phandalin](https://github.com/Svalbaz/Neverwinter/blob/main/locations/README.md#-phandalin)  
 **Party Level:** 2
 
 ---
@@ -151,7 +151,7 @@ Sildar Hallwinter began asserting authority in Phandalin, outlining plans to dea
 ---
 
 ## Notable NPCs
-- **Sildar Hallwinter** — Lord’s Alliance agent; acting authority
+- **Sildar Hallwinter** — [Lords' Alliance](https://github.com/Svalbaz/Neverwinter/blob/main/organisations/README.md#the-lords-alliance) agent; acting authority
 - **Glass Staff** — Redbrand leader (unseen)
 - **Iano Albrech** — Missing Lord’s Alliance wizard
 - **Redbrand Mage** — Captured and executed
