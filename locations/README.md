@@ -15,6 +15,26 @@ It will list major NPCs and interesting things that the party have discovered as
 
 ---
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 🏰 Phandalin
 Description...
 
