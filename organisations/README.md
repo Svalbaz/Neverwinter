@@ -10,7 +10,6 @@
 
 ---
 
-⚔️
 ## The Lords' Alliance
 
 **Type:** partnership of merchant cities
@@ -28,7 +27,6 @@ The Lords' Alliance, also known as the Council of Lords, is a partnership of mer
 
 ---
 
-⚖️
 ## The Harpers
 
 **Type:** Semi-Secretive Spy network
