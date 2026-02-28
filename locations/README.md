@@ -42,13 +42,13 @@ If the NPC earns their own page, or they are a member of a prominent [organisati
 
 ## 🏠 Phandalin Locations
 
-| Location | Details | 
-| Alderleaf Farm | Small Farm |
-| Cragmaw Castle | |
-| Miner's Exchange | |
-| Sleeping Giant Tap House | |
-| Stonehill Inn | |
-| Town Hall | |
-| Tresendar Manor | |
+| Location | Details | NPCs |
+| Alderleaf Farm | Small Farm | |
+| Cragmaw Castle | Enemy Fortress | |
+| Miner's Exchange | Mining Conglomerate | |
+| Sleeping Giant Tap House | Tavern, frequented by Redbrands | |
+| Stonehill Inn | Tavern, | Toblen & Elsa |
+| Town Hall | | |
+| Tresendar Manor | | |
 
 ---
