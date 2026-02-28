@@ -12,8 +12,8 @@
 
 ## The Lords' Alliance
 
-**Type:** Partnership of merchant cities 
-**Alignment / Reputation:** Lawful Good
+**Type:** Partnership of merchant cities    
+**Alignment / Reputation:** Lawful Good    
 
 ### Overview
 The Lords' Alliance, also known as the Council of Lords, is a partnership of merchant cities. Believing in the preservation of civilisation for the better of their people.
@@ -29,8 +29,8 @@ The Lords' Alliance, also known as the Council of Lords, is a partnership of mer
 
 ## The Harpers
 
-**Type:** Semi-Secretive Spy network
-**Alignment / Reputation:** Good
+**Type:** Semi-Secretive Spy network    
+**Alignment / Reputation:** Good    
 
 ### Overview
 Dedicated to preserving historical lore, maintaining the balance between nature and civilisation and defending the innocent from the forces of evil across the Realms
