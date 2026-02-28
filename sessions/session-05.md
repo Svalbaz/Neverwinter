@@ -1,7 +1,7 @@
 # Greyhawk – Session 05
 
 **Date:** Wednesday 18th February 2026  
-**Location:** Phandalin → Redbrand Hideout  
+**Location:** [Phandalin](https://github.com/Svalbaz/Neverwinter/blob/main/locations/README.md#-phandalin) → Redbrand Hideout  
 **Party Level:** 2  
 
 ---
@@ -65,7 +65,7 @@ The party gathered intelligence across Phandalin, uncovering political tension a
 ---
 
 ## Notable NPCs
-- **Sister Garaele** — Harper agent and Cleric of Savras
+- **Sister Garaele** — [Harper](https://github.com/Svalbaz/Neverwinter/blob/main/organisations/README.md#the-harpers) agent and Cleric of Savras
 - **Harbin Wester** — Town Master of Phandalin
 - **Halia Thornton** — Head of the Miner’s Exchange
 - **Droop** — Goblin cleaner
