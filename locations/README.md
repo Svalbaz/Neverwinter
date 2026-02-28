@@ -35,7 +35,7 @@ If the NPC earns their own page, there will be a link. Otherwise it will list im
 | Glass Staff            |                  | Redbrand leader (unseen)                      | Enemy                         |                               | 
 | Halia Thornton         |                  | Head & Founder of the Miner’s Exchange        | Presumed Friendly             |                               | 
 | Harbin Wester          |                  | Town Master of Phandalin                      | Unknown                       |                               | 
-| Iano Albrech           |                  | Wizard of the Lord’s Alliance (absent)        | Presumed Friendly             | [Lords' Alliance]([organisations/README.md](https://github.com/Svalbaz/Neverwinter/blob/main/locations/README.md))               | 
+| Iano Albrech           |                  | Wizard of the Lord’s Alliance (absent)        | Presumed Friendly             | [Lords' Alliance](organisations/README.md)     | 
 | Sildar Hallwinter      |                  | Member of the Lord’s Alliance                 | Friendly                      | Lords' Alliance               | 
 | Sister Garaele         | Elf              | Harper agent and Cleric of Savras             | Friendly                      | The Harper                    | 
 | Toblen Stonehill       | Elf              | Innkeeper                                     | Friendly                      |                               | 
