@@ -5,7 +5,7 @@ A D&D 5e campaign set in the Sword Coast.
 This repository serves as a shared reference for session notes.  
 Players can review sessions at their leisure, and the Party Roster will update as characters come and go.
 
-The _Chronicle_ below records each session in a ..mostly consistent format.
+The [_Chronicle_]([url](https://github.com/Svalbaz/Neverwinter/blob/main/README.md#-the-chronicle)) below records each session in a ..mostly consistent format.
 
 ⚠️ Player-facing notes only.  
 DM secrets are stored separately.
