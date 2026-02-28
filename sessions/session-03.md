@@ -1,7 +1,7 @@
 # Greyhawk – Session 03
 
 **Date:** Wednesday 28th January 2026  
-**Location:** Phandalin & Surrounding Area  
+**Location:** [Phandalin](https://github.com/Svalbaz/Neverwinter/blob/main/organisations/README.md#the-lords-alliance) & Surrounding Area  
 **Party Level:** 2
 
 ---
@@ -184,8 +184,8 @@ The party secured the survival of Sildar Hallwinter and learned of wider politic
 ---
 
 ## Notable NPCs
-- **Sildar Hallwinter** — Member of the Lord’s Alliance
-- **Iano Albrech** — Wizard of the Lord’s Alliance (absent)
+- **Sildar Hallwinter** — Member of the [**Lords' Alliance**](https://github.com/Svalbaz/Neverwinter/blob/main/organisations/README.md#the-lords-alliance)
+- **Iano Albrech** — Wizard of the Lords' Alliance (absent)
 - **Barthan** — Merchant; employer
 - **Toblen Stonehill** — Innkeeper
 - **Elsa** — Barmaid (Toblen's daughter)
