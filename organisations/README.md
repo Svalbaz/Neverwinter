@@ -12,7 +12,7 @@
 
 ## The Lords' Alliance
 
-**Type:** partnership of merchant cities
+**Type:** Partnership of merchant cities 
 **Alignment / Reputation:** Lawful Good
 
 ### Overview
