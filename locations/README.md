@@ -1,10 +1,10 @@
 # Locations
 
-This Readme File will attempt to link to major locations that the Party have visited
+This Readme File will attempt to list the major locations that the Party have visited
 
 It will list major NPCs and interesting things that the party have discovered as well as rumours etc.
 
-If the NPC earns their own page, there will be a link. Otherwise it will list important details
+If the NPC earns their own page, or they are a member of a prominent [organisation](https://github.com/Svalbaz/Neverwinter/blob/main/organisations/) there will be a link. Otherwise it will list important details
 
 ---
 
