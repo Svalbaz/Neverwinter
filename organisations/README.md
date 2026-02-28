@@ -11,7 +11,7 @@
   
 ---
 
-## The Lords' Alliance
+## ⚔️ The Lords' Alliance
 
 **Type:** Partnership of merchant cities    
 
