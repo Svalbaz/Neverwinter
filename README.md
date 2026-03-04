@@ -40,6 +40,7 @@ Exploring the mysteries in and around [Phandalin](https://github.com/Svalbaz/Nev
 | 03      | 28 Jan 2026   | [Arrival in Phandalin](sessions/session-03.md)                   |
 | 04      | 04 Feb 2026   | [The Redbrand Street Fight](sessions/session-04.md)              |
 | 05      | 18 Feb 2026   | [Inside the Redbrand Cave](sessions/session-05.md)               |
+| 05      | 04 Mar 2026   | [Deeper into the Redbrand Cave](sessions/session-06.md)          |
 
 ---
 
@@ -52,3 +53,4 @@ Exploring the mysteries in and around [Phandalin](https://github.com/Svalbaz/Nev
 | 03       | —          | [Journal](sessions/session-03.md#user-content-journal) | —                                                      | —           | —           |
 | 04       | —          | —                                                      | [Journal](sessions/session-04.md#user-content-journal) | —           | —           |
 | 05       | —          | —                                                      | [Journal](sessions/session-05.md#user-content-journal) | —           | —           |
+| 06       | —          | —                                                      | —                                                      | —           | —           |
