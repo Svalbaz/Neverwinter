@@ -1,6 +1,6 @@
 # Neverwinter – Session 06
 
-**Date:** 04 MAr 2026  
+**Date:** 04 Mar 2026  
 **Location:** Redbrand Hideout (Under Tresendar Manor)  
 **Party Level:** 2  
 
