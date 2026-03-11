@@ -6,7 +6,7 @@
 
 ---
 
-## Party Present
+## 🪓 Party Present
 - Cal Tir — Elf Sorcerer
 - Confessor Baras — Human Cleric
 - Rurik Oathless — Dwarf Fighter
