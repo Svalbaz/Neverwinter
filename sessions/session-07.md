@@ -16,7 +16,7 @@
 ---
 
 ## Quest / Objective
-- Eliminate the Redbrands occupying Tresendar Manor
+- Eliminate the [**Redbrands**](https://github.com/Svalbaz/Neverwinter/blob/main/organisations/README.md#the-redbrands) occupying Tresendar Manor
 - Rescue any prisoners being held within the hideout
 
 ---
