@@ -102,7 +102,7 @@ The session ended with the discovery of additional [**Redbrands**](https://githu
 - 75 Copper Pieces  
 - 100 XP  
 
-**Current XP Total:** XXX (Level 2)
+**Current XP Total:** 850 (Level 2)
 
 ---
 
