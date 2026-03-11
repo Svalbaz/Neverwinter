@@ -1,8 +1,8 @@
 # Greyhawk – Session 03
 
-**Date:**  11th March 2026  
+**Date:** 11th March 2026  
 **Location:** Tresendar Manor / Redbrand Hideout  
-**Party Level:** 2-3  
+**Party Level:** 2 → 3 
 
 ---
 
