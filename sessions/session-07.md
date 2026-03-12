@@ -96,6 +96,7 @@ The group attempted to open a mysterious secret door using brute force and magic
 - Valen shoving Rurik and the Boy aside to force his way into the jail.
 - The Boy sarcastically punching Rurik in the codpiece.
 - Rurik tackling the terrified child when the voices began invading his mind.
+- The Boy ripping up a scroll because he can't read..
 - Confessor Baras feeding rations into the crevasse to appease the unseen creature.
 - Cal Tir critically failing a Fireball while attempting to open the secret door.
 
