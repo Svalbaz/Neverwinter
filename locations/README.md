@@ -37,7 +37,7 @@ If the NPC earns their own page, or they are a member of a prominent [organisati
 | Sildar Hallwinter      |                  | Member of the Lord’s Alliance                 | Friendly                        | [Lords' Alliance](https://github.com/Svalbaz/Neverwinter/blob/main/organisations/README.md#the-lords-alliance)    | 
 | Sister Garaele         | Elf              | Harper agent and Cleric of Savras             | Friendly                        | [The Harpers](https://github.com/Svalbaz/Neverwinter/blob/main/organisations/README.md#the-harpers)               | 
 | Toblen Stonehill       | Elf              | Innkeeper                                     | Friendly                        |                                                                                                                   | 
-| Qelline Alderleaf      | Halflin          | Local farmer                                  | Friendly                        |                                                                                                                   | 
+| Qelline Alderleaf      | Halfling          | Local farmer                                  | Friendly                        |                                                                                                                   | 
 
 
 ## 🏠 Phandalin Locations
