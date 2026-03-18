@@ -42,6 +42,7 @@ Exploring the mysteries in and around [Phandalin](https://github.com/Svalbaz/Nev
 | 05      | 18 Feb 2026   | [Inside the Redbrand Cave](sessions/session-05.md)               |
 | 06      | 04 Mar 2026   | [Deeper into the Redbrand Cave](sessions/session-06.md)          |
 | 07      | 11 Mar 2026   | [Rescuing the Thendrars](sessions/session-07.md)                 |
+| 08      | 18 Mar 2026   | [Iarno](sessions/session-08.md)                 |
 
 ---
 
@@ -56,3 +57,4 @@ Exploring the mysteries in and around [Phandalin](https://github.com/Svalbaz/Nev
 | 05       | —          | —                                                      | [Journal](sessions/session-05.md#user-content-journal) | —           | —           |
 | 06       | —          | —                                                      | [Journal](sessions/session-06.md#user-content-journal) | —           | —           |
 | 07       | —          | —                                                      | [Journal](sessions/session-07.md#user-content-journal) | —           | —           |
+| 08       | —          | —                                                      | [Journal](sessions/session-08.md#user-content-journal) | —           | —           |
