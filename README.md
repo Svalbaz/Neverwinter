@@ -42,7 +42,7 @@ Exploring the mysteries in and around [Phandalin](https://github.com/Svalbaz/Nev
 ### Quest Log Table
 
 | Quest ID | Quest Giver          | Outline                                                          | Location         |
-|---------|-----------------------|------------------------------------------------------------------|                  |
+|---------|-----------------------|------------------------------------------------------------------|------------------|
 | 01      | xxxxx                 |                                                                  |                  |
 
 ---
