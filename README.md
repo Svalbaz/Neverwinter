@@ -32,6 +32,11 @@ Exploring the mysteries in and around [Phandalin](https://github.com/Svalbaz/Nev
 ### Act I — Phandalin & The Redbrands
 > *Goblins stir the roads and corruption festers in the town.*
 
+---
+
+[Quest Log](questlog/quest-log.md)
+
+---
 
 | Session | Date          | Chapter                                                          |
 |---------|---------------|------------------------------------------------------------------|
