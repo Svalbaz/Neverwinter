@@ -38,6 +38,8 @@ Exploring the mysteries in and around [Phandalin](https://github.com/Svalbaz/Nev
 
 Only Main Quests (or at least Quests with more substance) will be displayed here, so this is not a complete list of actions to be undertaken by the Party
 
+There may be a full Quest Log saved as a separate page, however I am unsure if I will actually use this or just keep to this quick Table ....[Quest Log](questlog/quest-log.md)
+
 ### Quest Log Table
 
 | Quest ID | Quest Giver          | Outline                                                          | Location         | Complete? |
@@ -48,9 +50,6 @@ Only Main Quests (or at least Quests with more substance) will be displayed here
 | 04      | Sildar Hallwinter     | Investigate / Destroy Cragmaw Castle                             | Phandalin        |           |
 | 05      | Nirna                 | Nirna's Emerald Necklace                                         | Phandalin        |           |
 | 06      | ?                     | Investigate Wave Echo Cave                                       | ?                |           |
-
-### Link to Full Quest Log
-[Quest Log](questlog/quest-log.md)
 
 ---
 
