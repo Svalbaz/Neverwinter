@@ -51,6 +51,7 @@ There may be a full Quest Log saved as a separate page, however I am unsure if I
 | 04      | Sildar Hallwinter     | Investigate / Destroy Cragmaw Castle                             | Phandalin        |           |
 | 05      | Nirna                 | Nirna's Emerald Necklace                                         | Phandalin        |           |
 | 06      | Sildar Hallwinter     | Investigate Wave Echo Cave                                       | ?                |           |
+| 07      | Town Hall Sign        | Orcs at Wyvern Tor                                               | ?                |           |
 
 ---
 
