@@ -52,6 +52,7 @@ There may be a full Quest Log saved as a separate page, however I am unsure if I
 | 05      | Nirna                 | Nirna's Emerald Necklace                                         | Phandalin        |           |
 | 06      | Sildar Hallwinter     | Investigate Wave Echo Cave                                       | ?                |           |
 | 07      | Town Hall Sign        | Orcs at Wyvern Tor                                               | ?                |           |
+| 08      | Sister Garaele        | Give the Silver Comb to the Banshee                              | ?                |           |
 
 ---
 
