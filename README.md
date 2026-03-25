@@ -43,7 +43,12 @@ Exploring the mysteries in and around [Phandalin](https://github.com/Svalbaz/Nev
 
 | Quest ID | Quest Giver          | Outline                                                          | Location         |
 |---------|-----------------------|------------------------------------------------------------------|------------------|
-| 01      | xxxxx                 |                                                                  |                  |
+| 01      | Sildar Hallwinter     | Escort a Caravan to Phandalin                                    | Phandalin        |
+| 02      | Harbin Wester         | Investigate and Dismantle the Redbrands                          | Phandalin        |
+| 03      | Sildar Hallwinter     | Discover the fate of Iarno Albrek                                | Phandalin        |
+| 04      | Sildar Hallwinter     | Investigate / Destroy Cragmaw Castle                             | Phandalin        |
+| 05      | Nirna                 | Nirna's Emerald Necklace                                         | Phandalin        |
+| 06      |                       | Investigate Wave Echo Cave                                       | ?                |
 
 ---
 
