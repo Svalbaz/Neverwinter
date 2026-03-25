@@ -50,7 +50,7 @@ There may be a full Quest Log saved as a separate page, however I am unsure if I
 | 03      | Sildar Hallwinter     | Discover the fate of Iarno Albrek                                | Phandalin        | ✅        |
 | 04      | Sildar Hallwinter     | Investigate / Destroy Cragmaw Castle                             | Phandalin        |           |
 | 05      | Nirna                 | Nirna's Emerald Necklace                                         | Phandalin        |           |
-| 06      | ?                     | Investigate Wave Echo Cave                                       | ?                |           |
+| 06      | Sildar Hallwinter     | Investigate Wave Echo Cave                                       | ?                |           |
 
 ---
 
