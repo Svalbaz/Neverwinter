@@ -38,7 +38,8 @@ Exploring the mysteries in and around [Phandalin](https://github.com/Svalbaz/Nev
 
 Only Main Quests (or at least Quests with more substance) will be displayed here, so this is not a complete list of actions to be undertaken by the Party
 
-There may be a full Quest Log saved as a separate page, however I am unsure if I will actually use this or just keep to this quick Table ....[Quest Log](questlog/quest-log.md)
+There may be a full Quest Log saved as a separate page, however I am unsure if I will actually use this or just keep to this quick Table  
+...[Quest Log](questlog/quest-log.md)
 
 ### Quest Log Table
 
