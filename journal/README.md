@@ -7,25 +7,4 @@ These reflect personal perspectives, biases, and incomplete information.
 
 ## By Character
 
-### Rurik Oathless
-- [Session 01 – Tivor Trail & Goblin Cave](../sessions/session-01.md#user-content-journal)
-
----
-
-### Cal Tir
-- *(No entries yet)*
-
----
-
-### Confessor Baras
-- *(No entries yet)*
-
----
-
-### Valen Wildheart
-- *(No entries yet)*
-
----
-
-## Guest / Rotating Entries
-- *(None yet)*
+I am not indexing Journal Entries here, please see [**Main**](https://github.com/Svalbaz/Neverwinter/tree/main)
