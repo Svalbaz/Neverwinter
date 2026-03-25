@@ -48,7 +48,7 @@ Exploring the mysteries in and around [Phandalin](https://github.com/Svalbaz/Nev
 | 03      | Sildar Hallwinter     | Discover the fate of Iarno Albrek                                | Phandalin        | ✅        |
 | 04      | Sildar Hallwinter     | Investigate / Destroy Cragmaw Castle                             | Phandalin        |           |
 | 05      | Nirna                 | Nirna's Emerald Necklace                                         | Phandalin        |           |
-| 06      |                       | Investigate Wave Echo Cave                                       | ?                |           |
+| 06      | ?                     | Investigate Wave Echo Cave                                       | ?                |           |
 
 ---
 
