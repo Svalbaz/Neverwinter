@@ -1,4 +1,4 @@
-# Greyhawk – Session XX
+# Greyhawk – Session 09
 
 **Date:** 1st April 2026  
 **Location:** Triboar Trail, travelling East from Phandalin towards Conyberry  
