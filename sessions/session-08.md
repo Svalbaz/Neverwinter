@@ -1,6 +1,6 @@
 # Greyhawk – Session 08
 
-**Date:**  18th March 2026
+**Date:**  18th March 2026  
 **Location:** Tresendar Manor & Phandalin  
 **Party Level:**  3
 
