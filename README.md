@@ -36,6 +36,31 @@ Exploring the mysteries in and around [Phandalin](https://github.com/Svalbaz/Nev
 | <div align="center">Joe</div>                                                             | <div align="center">Phill</div>                                                           | <div align="center">Burns</div>                                                           |
 
 
+## 🛡️ Active Party
+
+| Cal Tir 🧙                                                                                                                       | Unknown (“The Boy”) 🪓                                                                                                                       |
+| -------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| <div align="center"><img src="images/party/CalTir.jpeg" width="180" height="270" title="Survived the Battle of Conyberry"></div> | <div align="center"><img src="images/party/Unknown.jpeg" width="180" height="270" title="Escaped across the river and fled Conyberry"></div> |
+| <div align="center">**Elf**<br>Sorcerer</div>                                                                                    | <div align="center">**Tiefling**<br>Barbarian</div>                                                                                          |
+| <div align="center">Ben</div>                                                                                                    | <div align="center">Craig</div>                                                                                                              |
+
+---
+
+## 🕯️ Fallen Companions
+
+*They held the line at Conyberry.*
+
+| Confessor Baras ⛪                                                                                                                                                                           | Rurik Oathless ⚔️                                                                                                                                                                        | Valen Wildheart 🏹                                                                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <div align="center"><img src="images/party/BarasDead.jpg" width="180" height="270" title="Killed by a Ghast after being overwhelmed. Final act: self-immolation to damage a Spectre"></div> | <div align="center"><img src="images/party/RurikDead.jpg" width="180" height="270" title="Drained and slain by a Shadow after holding the line alone against overwhelming undead"></div> | <div align="center"><img src="images/party/ValenDead.jpg" width="180" height="270" title="Life drained by Shadows and Spectres during the collapse of the front line"></div> |
+| <div align="center">**Human**<br>Cleric</div>                                                                                                                                               | <div align="center">**Dwarf**<br>Fighter</div>                                                                                                                                           | <div align="center">**Elf**<br>Fighter</div>                                                                                                                                 |
+| <div align="center">Joe</div>                                                                                                                                                               | <div align="center">Phill</div>                                                                                                                                                          | <div align="center">Burns</div>                                                                                                                                              |
+
+
+
+
+
+
 
 ---
 
