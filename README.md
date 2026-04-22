@@ -67,7 +67,8 @@ There may be a full Quest Log saved as a separate page, however I am unsure if I
 | 07      | 11 Mar 2026   | [Rescuing the Thendrars](sessions/session-07.md)                 |
 | 08      | 18 Mar 2026   | [Iarno](sessions/session-08.md)                                  |
 | 09      | 01 Apr 2026   | [Tribor Trail](sessions/session-09.md)                           |
-| 10      | 15 Apr 2026   | [Conyberry](sessions/session-10.md)                           |
+| 10      | 15 Apr 2026   | [Conyberry](sessions/session-10.md)                              |
+| 11      | 22 Apr 2026   | [The Battle](sessions/session-11.md)                             |
 
 ---
 
@@ -85,3 +86,4 @@ There may be a full Quest Log saved as a separate page, however I am unsure if I
 | 08       | —          | —                                                      | [Journal](sessions/session-08.md#user-content-journal) | —           | —           |
 | 09       | —          | —                                                      | [Journal](sessions/session-09.md#user-content-journal) | —           | —           |
 | 10       | —          | —                                                      | -                                                      | —           | —           |
+| 11       | —          | —                                                      | -                                                      | —           | —           |
