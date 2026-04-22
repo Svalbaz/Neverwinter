@@ -1,8 +1,8 @@
-# Greyhawk – Session XX
+# Greyhawk – Session 10
 
 **Date:** Wednesday 15th April  
 **Location:** Conyberry  
-**Party Level:** 4  
+**Party Level:** 3  
 
 ---
 
