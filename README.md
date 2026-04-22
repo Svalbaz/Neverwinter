@@ -97,5 +97,5 @@ There may be a full Quest Log saved as a separate page, however I am unsure if I
 | 07       | —          | —                                                      | [Journal](sessions/session-07.md#user-content-journal) | —           | —           |
 | 08       | —          | —                                                      | [Journal](sessions/session-08.md#user-content-journal) | —           | —           |
 | 09       | —          | —                                                      | [Journal](sessions/session-09.md#user-content-journal) | —           | —           |
-| 10       | —          | —                                                      | -                                                      | —           | —           |
-| 11       | —          | —                                                      | -                                                      | —           | —           |
+| 10       | —          | —                                                      | —                                                      | —           | —           |
+| 11       | —          | —                                                      | —                                                      | —           | —           |
