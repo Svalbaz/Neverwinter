@@ -121,11 +121,11 @@ After drinks, arguments, and an arm wrestling match, the group forms a new five-
 ### Kuraken Goldkettle
 *Written after the events of the day.*
 
-> After spending a few weeks with Hashon, and then waiting for some days in Phandalin, we finally met up with our new Brethrens
+> After spending a few weeks with Hashon, and then waiting for some days in Phandalin, we finally met up with our new Brethren
 >
 > The Boy, an angry young Tiefling and Cal, a quiet Human
 >
-> As we moved North towards Thundetree we came across a few Gnome brothers. Two of them seem to treat the other like dirt, making him do dangerous tasks for their own wealth.
+> As we moved North towards Thundertree we came across a few Gnome brothers. Two of them seem to treat the other like dirt, making him do dangerous tasks for their own wealth.
 > The Boy and I gave them a few choice words but whats the point in doing more than that?
 >
 > We got to Thundertree and encountered some undead.
