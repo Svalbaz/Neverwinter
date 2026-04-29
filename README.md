@@ -87,21 +87,23 @@ There may be a full Quest Log saved as a separate page, however I am unsure if I
 | 09      | 01 Apr 2026   | [Tribor Trail](sessions/session-09.md)                           |
 | 10      | 15 Apr 2026   | [Conyberry](sessions/session-10.md)                              |
 | 11      | 22 Apr 2026   | [The Battle](sessions/session-11.md)                             |
+| 12      | 29 Apr 2026   | [A New Party](sessions/session-12.md)                            |
 
 ---
 
 ## 📜 Character Journal Index
 
-| Session | Cal Tir 🧙                                              | Baras ⛪                                              | Rurik ⚔️                                               | Unknown 🪓 | Valen 🏹    |
-|----------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|-------------|-------------|
-| 01       | —                                                      | —                                                      | [Journal](sessions/session-01.md#user-content-journal) | —           | —           |
-| 02       | —                                                      | —                                                      | [Journal](sessions/session-02.md#user-content-journal) | —           | —           |
-| 03       | —                                                      | [Journal](sessions/session-03.md#user-content-journal) | —                                                      | —           | —           |
-| 04       | —                                                      | —                                                      | [Journal](sessions/session-04.md#user-content-journal) | —           | —           |
-| 05       | —                                                      | —                                                      | [Journal](sessions/session-05.md#user-content-journal) | —           | —           |
-| 06       | —                                                      | —                                                      | [Journal](sessions/session-06.md#user-content-journal) | —           | —           |
-| 07       | —                                                      | —                                                      | [Journal](sessions/session-07.md#user-content-journal) | —           | —           |
-| 08       | —                                                      | —                                                      | [Journal](sessions/session-08.md#user-content-journal) | —           | —           |
-| 09       | —                                                      | —                                                      | [Journal](sessions/session-09.md#user-content-journal) | —           | —           |
-| 10       | —                                                      | —                                                      | —                                                      | —           | —           |
-| 11       | [Journal](sessions/session-11.md#user-content-journal) | —                                                      | —                                                      | —           | —           |
+| Session | Cal Tir 🧙                                              | Baras ⛪                                              | Rurik ⚔️                                               | Kuraken 🔪                                           |
+|----------|--------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|-------------------------------------------------------|
+| 01       | —                                                      | —                                                      | [Journal](sessions/session-01.md#user-content-journal) | —                                                     |
+| 02       | —                                                      | —                                                      | [Journal](sessions/session-02.md#user-content-journal) | —                                                     |
+| 03       | —                                                      | [Journal](sessions/session-03.md#user-content-journal) | —                                                      | —                                                     |
+| 04       | —                                                      | —                                                      | [Journal](sessions/session-04.md#user-content-journal) | —                                                     |
+| 05       | —                                                      | —                                                      | [Journal](sessions/session-05.md#user-content-journal) | —                                                     |
+| 06       | —                                                      | —                                                      | [Journal](sessions/session-06.md#user-content-journal) | —                                                     |
+| 07       | —                                                      | —                                                      | [Journal](sessions/session-07.md#user-content-journal) | —                                                     |
+| 08       | —                                                      | —                                                      | [Journal](sessions/session-08.md#user-content-journal) | —                                                     |
+| 09       | —                                                      | —                                                      | [Journal](sessions/session-09.md#user-content-journal) | —                                                     |
+| 10       | —                                                      | —                                                      | —                                                      | —                                                     |
+| 11       | [Journal](sessions/session-11.md#user-content-journal) | —                                                      | —                                                      | —                                                     |
+| 12       | —                                                      | —                                                      | —                                                      | [Journal](sessions/session-12.md#user-content-journal) |
