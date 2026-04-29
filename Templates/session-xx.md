@@ -8,10 +8,9 @@
 
 ## Party Present
 - Cal Tir — Elf Sorcerer
-- Confessor Baras — Human Cleric
-- Rurik Oathless — Dwarf Fighter
-- Unknown — Tiefling Barbarian
-- Valen Wildheart — Elf Fighter
+- Hashon Saddar — Human Fighter
+- Kuraken Goldkettle — Halfling Bard
+- The Boy — Tiefling Barbarian
 
 ---
 
