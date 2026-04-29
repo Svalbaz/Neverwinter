@@ -174,3 +174,22 @@ The encounter quickly turned into a desperate fight for survival, ultimately res
 * Party casualties: **Baras, Valen, Rurik**
 * Survivors: **Cal Tir, The Boy**
 * Encounter difficulty was extremely high relative to party level
+
+---
+
+## Journal
+
+### Cal Tir
+*Written after the events of the day.*
+
+> An unwinnable battle, there was no hope of all surviving.
+> Rurik stood the longest, shrugging off attack after attack as he held them back.
+> Baras went in a blaze of glory, quoting scripture as he engulfed himself in flame.
+> Even Valen stood valiantly to the end, never taking a step back.
+>
+> All working together to save the boy.
+>
+> By some miracle I managed to flee, clearing the barrier to allow our escape. It was all I could do.
+>
+> My most powerful spells cast, it made no difference.
+> Visions playing on my mind, am I powerless?
