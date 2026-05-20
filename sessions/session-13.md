@@ -32,7 +32,7 @@ The group cautiously ventured deeper into the ruined streets of Thundertree, not
 
 While exploring further, the group discovered a fortified building that appeared far better maintained than the surrounding ruins. Inside they met Reidoth, an eccentric druid accompanied by a raven named Solas. Reidoth explained that the corruption spreading through Thundertree and the ash-infused undead are tied to the lingering magical imbalance surrounding Wave Echo Cave and the eruption of Mount Hotenow centuries ago.
 
-Although Reidoth admitted he knew the locations of both Cragmaw Castle and Wave Echo Cave, he refused to reveal the latter until the party dealt with a greater threat to the balance of the region: a young green dragon named Venomfang residing in the old tower north of town.
+Although Reidoth admitted he knew the locations of both Cragmaw Castle and Wave Echo Cave, he refused to reveal the latter until the party dealt with a greater threat to the balance of the region: a young green dragon named Venomfang residing in the old tower north of town. Through the spiderwebs.
 
 The session ended with the party taking a short rest in Reidoth’s cottage while Kuraken prepared a meal and shared some decidedly less impressive wine.
 
@@ -161,4 +161,4 @@ The session ended with the party taking a short rest in Reidoth’s cottage whil
 >
 > The meal I made was a bit.. well it was fine. I felt bad so I shared the less good wine, keeping the better one.
 >  
-> Still, at least I have that wine if things so south.
+> Still, at least I have that wine if things so South as we head North.
