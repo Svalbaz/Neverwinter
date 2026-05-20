@@ -30,7 +30,7 @@ While moving through the crevasse area within the hideout, the party began heari
 
 Exploring further, the party recovered several treasures including an ancient blade named **Talon**, once wielded by Aldith Tresendar during the Orc wars centuries ago.
 
-The party also discovered historical writings describing the **Phandelver Pact** and the long-lost **Wave Echo Cave**, confirming the mine’s ancient magical forge and its destruction during an Orc invasion 500 years ago.
+The party also discovered by reading books about historical writings describing the **Phandelver Pact** and the long-lost **Wave Echo Cave**, confirming the mine’s ancient magical forge and its destruction during an Orc invasion 500 years ago.
 
 The group attempted to open a mysterious secret door using brute force and magic, but failed.
 
