@@ -86,8 +86,8 @@ The session ended with the party taking a short rest in Reidoth’s cottage whil
   - None
 
 - Items:
-  - 1 bottle of fine vintage wine
-  - 1 bottle of “cooking wine”
+  - 1 bottle of fine vintage wine, "Fine Wine"
+  - 1 bottle of “cooking wine” or "Less Fine Wine"
 
 - XP:
   - Defeated Ash Zombie
