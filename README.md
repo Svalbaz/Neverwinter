@@ -71,6 +71,8 @@ There may be a full Quest Log saved as a separate page, however I am unsure if I
 | 06      | Sildar Hallwinter     | Investigate Wave Echo Cave                                       | ?                |           |
 | 07      | Town Hall Sign        | Orcs at Wyvern Tor                                               | ?                |           |
 | 08      | Sister Garaele        | Give the Silver Comb to the Banshee                              | Conyberry        | ❌        |
+| 09      | Reidoth               | Investigate Thundertree's disturbances                           | Thundertree      |           |
+| 10      | Reidoth               | Venomfang                                                        | Thundertree      |           |
 
 ---
 
@@ -89,6 +91,7 @@ There may be a full Quest Log saved as a separate page, however I am unsure if I
 | 11      | 22 Apr 2026   | [The Battle](sessions/session-11.md)                             |
 | 12      | 29 Apr 2026   | [A New Party](sessions/session-12.md)                            |
 | 13      | 20 May 2026   | [Thundertree](sessions/session-13.md)                            |
+| 14      | 27 May 2026   | [Spiderwebs and the Barracks](sessions/session-14.md)                            |
 
 ---
 
@@ -108,4 +111,5 @@ There may be a full Quest Log saved as a separate page, however I am unsure if I
 | 10       | —                                                      | —                                                      | —                                                      | —                                                      |
 | 11       | [Journal](sessions/session-11.md#user-content-journal) | —                                                      | —                                                      | —                                                      |
 | 12       | —                                                      | —                                                      | —                                                      | [Journal](sessions/session-12.md#user-content-journal) |
-| 12       | —                                                      | —                                                      | —                                                      | [Journal](sessions/session-13.md#user-content-journal) |
+| 13       | —                                                      | —                                                      | —                                                      | [Journal](sessions/session-13.md#user-content-journal) |
+| 14       | —                                                      | —                                                      | —                                                      | [Journal](sessions/session-14.md#user-content-journal) |
