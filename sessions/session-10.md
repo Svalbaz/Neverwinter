@@ -109,7 +109,7 @@ When The Boy attempted to take an item, a large number of spectral entities—in
   - Unknown Ring stolen briefly by The Boy  
 
 - XP:  
-- Current XP Total: XXX (Level 4)
+- Current XP Total: XXX (Level 3)
 
 ---
 
