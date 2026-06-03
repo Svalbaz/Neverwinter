@@ -91,7 +91,8 @@ There may be a full Quest Log saved as a separate page, however I am unsure if I
 | 11      | 22 Apr 2026   | [The Battle](sessions/session-11.md)                             |
 | 12      | 29 Apr 2026   | [A New Party](sessions/session-12.md)                            |
 | 13      | 20 May 2026   | [Thundertree](sessions/session-13.md)                            |
-| 14      | 27 May 2026   | [Spiderwebs and the Barracks](sessions/session-14.md)                            |
+| 14      | 27 May 2026   | [Spiderwebs and the Barracks](sessions/session-14.md)            |
+| 15      | 03 Jun 2026   | [Venomfang](sessions/session-15.md)            |
 
 ---
 
@@ -113,3 +114,4 @@ There may be a full Quest Log saved as a separate page, however I am unsure if I
 | 12       | —                                                      | —                                                      | —                                                      | [Journal](sessions/session-12.md#user-content-journal) |
 | 13       | —                                                      | —                                                      | —                                                      | [Journal](sessions/session-13.md#user-content-journal) |
 | 14       | —                                                      | —                                                      | —                                                      | [Journal](sessions/session-14.md#user-content-journal) |
+| 15       | —                                                      | —                                                      | —                                                      | [Journal](sessions/session-15.md#user-content-journal) |
