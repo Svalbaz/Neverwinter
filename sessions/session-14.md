@@ -89,7 +89,7 @@ Inside the barracks, the party uncovered weapons, armour, valuables, and what ap
   - Cooked Spiderling (stored by Kuraken)
   - Assorted basic weapons and armour
 - XP:
-- Current XP Total: XXX (Level 3)
+- Current XP Total: 2100 (Level 3)
 
 ---
 
