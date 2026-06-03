@@ -70,6 +70,7 @@ Only Main Quests (or at least Quests with more substance) will be displayed here
 | 08      | Sister Garaele        | Give the Silver Comb to the Banshee                              | Conyberry        | ❌        |
 | 09      | Reidoth               | Investigate Thundertree's disturbances                           | Thundertree      |           |
 | 10      | Reidoth               | Venomfang                                                        | Thundertree      |           |
+| 11      | Venomfang             | The One Who Spins Webs Between Worlds                            | Thundertree      |           |
 
 ---
 
