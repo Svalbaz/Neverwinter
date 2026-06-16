@@ -71,6 +71,7 @@ Only Main Quests (or at least Quests with more substance) will be displayed here
 | 09      | Reidoth               | Investigate Thundertree's disturbances                           | Thundertree      |           |
 | 10      | Reidoth               | Venomfang                                                        | Thundertree      |           |
 | 11      | Venomfang             | The One Who Spins Webs Between Worlds                            | Thundertree      |           |
+| 12      | Venomfang             | Descendants of "The One-Eye"                                     | Thundertree      |           |
 
 ---
 
