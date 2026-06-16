@@ -64,7 +64,7 @@ Only Main Quests (or at least Quests with more substance) will be displayed here
 | 02      | Harbin Wester         | Investigate and Dismantle the Redbrands                          | Phandalin        | ✅        |
 | 03      | Sildar Hallwinter     | Discover the fate of Iarno Albrek                                | Phandalin        | ✅        |
 | 04      | Sildar Hallwinter     | Investigate / Destroy Cragmaw Castle                             | Phandalin        |           |
-| 05      | Nirna                 | Nirna's Emerald Necklace                                         | Phandalin        |           |
+| 05      | Nirna                 | Nirna's Emerald Necklace                                         | Thundertree      |           |
 | 06      | Sildar Hallwinter     | Investigate Wave Echo Cave                                       | ?                |           |
 | 07      | Town Hall Sign        | Orcs at Wyvern Tor                                               | ?                |           |
 | 08      | Sister Garaele        | Give the Silver Comb to the Banshee                              | Conyberry        | ❌        |
