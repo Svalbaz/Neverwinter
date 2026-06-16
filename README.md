@@ -91,7 +91,8 @@ Only Main Quests (or at least Quests with more substance) will be displayed here
 | 12      | 29 Apr 2026   | [A New Party](sessions/session-12.md)                            |
 | 13      | 20 May 2026   | [Thundertree](sessions/session-13.md)                            |
 | 14      | 27 May 2026   | [Spiderwebs and the Barracks](sessions/session-14.md)            |
-| 15      | 03 Jun 2026   | [Venomfang](sessions/session-15.md)            |
+| 15      | 03 Jun 2026   | [Venomfang](sessions/session-15.md)                              |      
+| 16      | 16 Jun 2026   | [The Stone..?](sessions/session-16.md)                              | 
 
 ---
 
@@ -114,3 +115,4 @@ Only Main Quests (or at least Quests with more substance) will be displayed here
 | 13       | —                                                      | —                                                      | —                                                      | [Journal](sessions/session-13.md#user-content-journal) |
 | 14       | —                                                      | —                                                      | —                                                      | [Journal](sessions/session-14.md#user-content-journal) |
 | 15       | —                                                      | —                                                      | —                                                      | [Journal](sessions/session-15.md#user-content-journal) |
+| 16       | —                                                      | —                                                      | —                                                      | [Journal](sessions/session-16.md#user-content-journal) |
