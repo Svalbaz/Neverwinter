@@ -120,7 +120,7 @@ Despite several nervous moments and Kuraken's attempt to signal a tactical retre
 - The Boy sleep-talked about someone named Elsa and apparently being forced to do something for a fourth time.
 - Hashon dramatically threw his torch into the darkness to investigate the movement he had seen.
 - Kuraken searched through a large pile of animal dung.
-- The Boy immediately identified that the fake Reidoth was not actually Reidoth.
+- Kuraken immediately identified that the fake Reidoth was not actually Reidoth.
 - Kuraken attempted to discreetly signal a tactical withdrawal by asking what goes well with wine after a meal.
 - Hashon understood the signal and prepared for possible combat.
 - The party successfully talked their way out of a potentially deadly encounter with a dragon.
